@@ -98,19 +98,31 @@ People
 ------
 If you would like your name to appear here, or you would like it removed, please [open a new issue][].
 
-+ [Brian Davey](http://briandavey.ltumathstats.com/) (La Trobe University)  
-+ [William DeMeo](http://williamdemeo.org) (University of South Carolina)  
-+ [Ralph Freese](http://math.hawaii.edu/~ralph/) (University of Hawaii)  
-+ [Peter Jipsen](http://www1.chapman.edu/~jipsen/) (Chapman University)  
-+ [Kieth Kearnes](http://spot.colorado.edu/~kearnes/) (University of Colorado)  
-+ [Bill Lampe](http://math.hawaii.edu/~bill/) (University of Hawaii)  
-+ [George McNulty](http://www.math.sc.edu/~mcnulty/) (University of South Carolina)  
-+ [J. B. Nation](http://math.hawaii.edu/~jb/) (University of Hawaii)   
-+ [Ágnes Szendrei](http://spot.colorado.edu/~szendrei/) (University of Colorado)  
-+ [Ross Willard](http://www.math.uwaterloo.ca/~rdwillar/) (University of Waterloo)  
-+ [Matt Valeriote](http://ms.mcmaster.ca/~matt/) (McMaster University)  
-
-
++ [Kirby Baker](mailto:baker@math.ucla.edu)
++ [Cliff Bergman](mailto:cbergman@iastate.edu)
++ [Roger Bunn](mailto:RogerBunn@missouristate.edu)
++ [Eran Crockett](mailto:crockett@math.binghamton.edu)
++ [Brian Davey](mailto:b.davey@latrobe.edu.au) ([La Trobe University](http://briandavey.ltumathstats.com/))  
++ [William DeMeo](mailto:williamdemeo@gmail.com) ([University of South Carolina](http://williamdemeo.org))
++ [Ralph Freese](mailto:ralphfreese@gmail.com) ([University of Hawaii](http://math.hawaii.edu/~ralph/))
++ [Jonah Horowitz](mailto:jonah.horowitz@gmail.com)
++ [Alexander Hulpke](mailto:ahulpke@gmail.com)
++ [Peter Jipsen](mailto:jipsenp@gmail.com) ([Chapman University](http://www1.chapman.edu/~jipsen/))
++ [Alexandr Kazda](mailto:alex.kazda@gmai.com)
++ [Keith Kearnes](mailto:kearnes@euclid.colorado.edu) ([University of Colorado](http://spot.colorado.edu/~kearnes/))  
++ [Bill Lampe](mailto:bill@math.hawaii.edu) ([University of Hawaii](http://math.hawaii.edu/~bill/))
++ [Peter Mayr](mailto:peter.mayr@jku.at)
++ [George McNulty](mailto:mcnulty@math.sc.edu) ([University of South Carolina](http://www.math.sc.edu/~mcnulty/))
++ [Matthew Moore](mailto:matthew.d.moore@gmail.com)
++ [Robert Morse](mailto:rfmorse@gmail.com)
++ [Yuri Movsisyan](mailto:yurimovsisyan@yahoo.com)
++ [J. B. Nation](mailto:jb@math.hawaii.edu) ([University of Hawaii](http://math.hawaii.edu/~jb/))   
++ [Steven Seif](mailto:steven.seif@louisville.edu)
++ [Matthew Smedberg](mailto:matthewsmedberg@gmail.com)
++ [Agnes Szendrei](mailto:szendrei@euclid.colorado.edu) ([University of Colorado](http://spot.colorado.edu/~szendrei/))
++ [Matt Valeriote](mailto:matt@math.mcmaster.ca) ([McMaster University](http://ms.mcmaster.ca/~matt/))
++ [Ross Willard](mailto:rdwillar@uwaterloo.ca) ([University of Waterloo](http://www.math.uwaterloo.ca/~rdwillar/))  
++ [Alex Wires](mailto:slawkenbergius@hotmail)
 
 -----------------------------------------------------------------
 
