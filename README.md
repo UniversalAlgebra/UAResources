@@ -98,8 +98,8 @@ People
 ------
 If you would like your name to appear here, or you would like it removed, please [open a new issue][].
 
-+ [Kirby Baker](mailto:baker@math.ucla.edu)
-+ [Cliff Bergman](mailto:cbergman@iastate.edu)
++ [Kirby Baker](mailto:baker@math.ucla.edu) ([UCLA](http://www.math.ucla.edu/~baker/))
++ [Cliff Bergman](mailto:cbergman@iastate.edu) ([Iowa State](http://orion.math.iastate.edu/cbergman/))
 + [Roger Bunn](mailto:RogerBunn@missouristate.edu)
 + [Eran Crockett](mailto:crockett@math.binghamton.edu)
 + [Brian Davey](mailto:b.davey@latrobe.edu.au) ([La Trobe University](http://briandavey.ltumathstats.com/))  
@@ -108,7 +108,7 @@ If you would like your name to appear here, or you would like it removed, please
 + [Jonah Horowitz](mailto:jonah.horowitz@gmail.com)
 + [Alexander Hulpke](mailto:ahulpke@gmail.com) ([Colorado State University](http://www.math.colostate.edu/~hulpke/))
 + [Peter Jipsen](mailto:jipsenp@gmail.com) ([Chapman University](http://www1.chapman.edu/~jipsen/))
-+ [Alexandr Kazda](mailto:alex.kazda@gmai.com)
++ [Alexandr Kazda](mailto:alex.kazda@gmail.com)
 + [Keith Kearnes](mailto:kearnes@euclid.colorado.edu) ([University of Colorado](http://spot.colorado.edu/~kearnes/))  
 + [Bill Lampe](mailto:bill@math.hawaii.edu) ([University of Hawaii](http://math.hawaii.edu/~bill/))
 + [Peter Mayr](mailto:peter.mayr@jku.at)
@@ -122,7 +122,7 @@ If you would like your name to appear here, or you would like it removed, please
 + [Agnes Szendrei](mailto:szendrei@euclid.colorado.edu) ([University of Colorado](http://spot.colorado.edu/~szendrei/))
 + [Matt Valeriote](mailto:matt@math.mcmaster.ca) ([McMaster University](http://ms.mcmaster.ca/~matt/))
 + [Ross Willard](mailto:rdwillar@uwaterloo.ca) ([University of Waterloo](http://www.math.uwaterloo.ca/~rdwillar/))  
-+ [Alex Wires](mailto:slawkenbergius@hotmail)
++ [Alex Wires](mailto:slawkenbergius@hotmail.com)
 
 -----------------------------------------------------------------
 
