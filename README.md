@@ -66,8 +66,9 @@ See also the excellent list of books on [George McNulty's page](http://www.math.
 Software
 --------
 + [UACalc](http://www.uacalc.org/)  
-+ [GAP](http://www.gap-system.org)  
++ [GAP](http://www.gap-system.org)   
 + [Sage](http://www.sagemath.org)  
+    - [Sage packages for Universal Algebra](http://math.chapman.edu/~jipsen/sagepkg/)  
 + [Scala][]  
     - [2013 course "Functional programming principles in Scala"][] -- Coursera course by Martin Odersky.
 + [Agda][]  
