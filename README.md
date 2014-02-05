@@ -106,7 +106,7 @@ If you would like your name to appear here, or you would like it removed, please
 + [William DeMeo](mailto:williamdemeo@gmail.com) ([University of South Carolina](http://williamdemeo.org))
 + [Ralph Freese](mailto:ralphfreese@gmail.com) ([University of Hawaii](http://math.hawaii.edu/~ralph/))
 + [Jonah Horowitz](mailto:jonah.horowitz@gmail.com)
-+ [Alexander Hulpke](mailto:ahulpke@gmail.com)
++ [Alexander Hulpke](mailto:ahulpke@gmail.com) ([Colorado State University](http://www.math.colostate.edu/~hulpke/))
 + [Peter Jipsen](mailto:jipsenp@gmail.com) ([Chapman University](http://www1.chapman.edu/~jipsen/))
 + [Alexandr Kazda](mailto:alex.kazda@gmai.com)
 + [Keith Kearnes](mailto:kearnes@euclid.colorado.edu) ([University of Colorado](http://spot.colorado.edu/~kearnes/))  
