@@ -6,6 +6,21 @@ to [this question](http://math.stackexchange.com/questions/663823).
 
 Please feel free to add to this repository!
 
+----------------------------------------------------------------
+
+Contents
+--------
+- [Community Support](#community-support)
+- [Road Map](#road-map)
+- [Online Course Materials](#online-course-materials)
+- [Books and Papers](#books-and-papers)
+- [Software](#software)
+- [Websites](#websites)
+- [Conferences](#conferences)
+- [People](#people)
+
+-----------------------------------------------------------------
+
 Community Support
 -----------------
 Contributions to this repository from other members of the mathematical community 
@@ -14,15 +29,25 @@ or have suggestions for improvements, there are many ways to do this.
 
 The quickest way to provide feedback is to [open a new issue][].
 
-If you use [Git][], you may also fork the book and make pull requests.
+If you use [Git][], you may also fork the book and make pull requests.  
 (Would you like to understand the last sentence? [Learn git in 15 minutes!][])
 
+-----------------------------------------------------------------
+
+Road Map
+--------
+This section will give a brief overview of universal algebra and point newbies in the right direction.  
+
+(Could someone help fill in this section?)
+
+-----------------------------------------------------------------
 
 Online Course Materials
 -----------------------
 + [Universal Algebra](http://www.math.hawaii.edu/~ralph/Classes/619/) by Ralph Freese.
 + [Algebras, Lattices, Varieties](http://www.math.sc.edu/~mcnulty/alglatvar/index.html) by George McNulty.
 
+-----------------------------------------------------------------
 
 Books and Papers
 ----------------
@@ -34,10 +59,11 @@ Books and Papers
 
 See also, the excellent list of books on [George McNulty's page](http://www.math.sc.edu/~mcnulty/alglatvar/index.html)
 
+-----------------------------------------------------------------
 
 Software
 --------
-+ [The Universal Algebra Calculator](http://www.uacalc.org/)  
++ [UACalc](http://www.uacalc.org/)  
 + [GAP](http://www.gap-system.org)  
 + [Sage](http://www.sagemath.org)  
 + [Scala][]  
@@ -48,6 +74,7 @@ Software
 	- [Software Foundations in Coq][] -- tips from OPLSS
     - [2011 Course on Type Theory and Coq][]
 
+-----------------------------------------------------------------
 
 Websites
 --------
@@ -55,11 +82,14 @@ Websites
 + [Lattice Theory Homepage](http://math.hawaii.edu/LatThy/)  
 + [universalalgebra.org](http://universalalgebra.org)  
 
+-----------------------------------------------------------------
 
 Conferences
 -----------
++ [Conference is Algebra and Logic](https://github.com/UniversalAlgebra/Conferences)  
 + [General Algebra Conferences](http://spot.colorado.edu/~kearnes/conf.html)
 
+-----------------------------------------------------------------
 
 People
 ------
@@ -77,8 +107,7 @@ If you would like your name to appear here, or you would like it removed, please
 
 
 
-
-
+-----------------------------------------------------------------
 
 
 
