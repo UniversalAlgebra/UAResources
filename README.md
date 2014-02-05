@@ -54,12 +54,12 @@ Courses
 Books and Papers
 ----------------
 + [A Course in Universal Algebra](http://www.math.uwaterloo.ca/~snburris/htdocs/ualg.html), by Stanley N. Burris and H.P. Sankappanavar.    
++ [Universal Algebra](http://www.amazon.com/Universal-Algebra-Fundamentals-Selected-Mathematics/dp/1439851298/), by Cliff Bergman.  
 + [Notes on Lattice Theory](http://www.math.hawaii.edu/~jb/books.html), by J.B. Nation.
 + [The Commutator Book](http://math.hawaii.edu/~ralph/Commutator/), by Ralph Freese and Ralph McKenzie.   
 + [The Structure of Finite Algebras](http://www.math.hawaii.edu/~ralph/Classes/619/HobbyMcKenzie-FiniteAlgebras.pdf), by Hobby and McKenzie.
-+ *Universal Algebra*, by Cliff Bergman.
 
-See also, the excellent list of books on [George McNulty's page](http://www.math.sc.edu/~mcnulty/alglatvar/index.html)
+See also the excellent list of books on [George McNulty's page](http://www.math.sc.edu/~mcnulty/alglatvar/index.html).
 
 -----------------------------------------------------------------
 
