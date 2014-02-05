@@ -31,7 +31,7 @@ The quickest way to provide feedback is to [open a new issue][].
 
 Alternatively, you could [create a new Wiki page](https://github.com/UniversalAlgebra/UAResources/wiki/_new).
 
-If you use [Git][], you may also fork the book and make pull requests.  
+If you use [Git][], you may also [fork][] the repository and make [pull requests][].  
 (Would you like to understand the last sentence? [Learn git in 15 minutes!][])
 
 -----------------------------------------------------------------
@@ -134,7 +134,9 @@ If you would like your name to appear here, or you would like it removed, please
 [Git]: http://en.wikipedia.org/wiki/Git_(software)
 [Sage]: http://en.wikipedia.org/wiki/Sage_(mathematics_software)
 [Fork]: https://help.github.com/articles/fork-a-repo
+[fork]: https://help.github.com/articles/fork-a-repo
 [Clone]: http://git-scm.com/book/en/Git-Basics-Getting-a-Git-Repository#Cloning-an-Existing-Repository
+[pull requests]: https://help.github.com/articles/using-pull-requests
 [pull request]: https://help.github.com/articles/using-pull-requests
 [Set up Git]: https://help.github.com/articles/set-up-git
 [Commit]: http://rogerdudler.github.io/git-guide/
