@@ -4,7 +4,7 @@ This repository collects some links and resources for learning about universal
 algebra and related topics.  It was initially created on Feb 4, 2014 in response 
 to [this question](http://math.stackexchange.com/questions/663823).
 
-Please feel free to add to this repository!
+Consider [contributing to this repository](#community-support)!
 
 ----------------------------------------------------------------
 
@@ -28,6 +28,8 @@ are strongly encouraged and gratefully accepted. If you would like to contribute
 or have suggestions for improvements, there are many ways to do this. 
 
 The quickest way to provide feedback is to [open a new issue][].
+
+Alternatively, you could [create a new Wiki page](https://github.com/UniversalAlgebra/UAResources/wiki/_new).
 
 If you use [Git][], you may also fork the book and make pull requests.  
 (Would you like to understand the last sentence? [Learn git in 15 minutes!][])
@@ -100,7 +102,9 @@ If you would like your name to appear here, or you would like it removed, please
 + [Ralph Freese](http://math.hawaii.edu/~ralph/) (University of Hawaii)  
 + [Peter Jipsen](http://www1.chapman.edu/~jipsen/) (Chapman University)  
 + [Kieth Kearnes](http://spot.colorado.edu/~kearnes/) (University of Colorado)  
++ [Bill Lampe](http://math.hawaii.edu/~bill/) (University of Hawaii)  
 + [George McNulty](http://www.math.sc.edu/~mcnulty/) (University of South Carolina)  
++ [J. B. Nation](http://math.hawaii.edu/~jb/) (University of Hawaii)   
 + [Ágnes Szendrei](http://spot.colorado.edu/~szendrei/) (University of Colorado)  
 + [Ross Willard](http://www.math.uwaterloo.ca/~rdwillar/) (University of Waterloo)  
 + [Matt Valeriote](http://ms.mcmaster.ca/~matt/) (McMaster University)  
