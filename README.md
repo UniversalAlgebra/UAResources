@@ -12,7 +12,7 @@ Contents
 --------
 - [Community Support](#community-support)
 - [Road Map](#road-map)
-- [Online Course Materials](#online-course-materials)
+- [Courses](#courses)
 - [Books and Papers](#books-and-papers)
 - [Software](#software)
 - [Websites](#websites)
