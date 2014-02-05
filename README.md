@@ -44,8 +44,8 @@ This section will give a brief overview of universal algebra and point newbies i
 
 -----------------------------------------------------------------
 
-Online Course Materials
------------------------
+Courses
+-------
 + [Universal Algebra](http://www.math.hawaii.edu/~ralph/Classes/619/) by Ralph Freese.
 + [Algebras, Lattices, Varieties](http://www.math.sc.edu/~mcnulty/alglatvar/index.html) by George McNulty.
 
