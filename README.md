@@ -69,13 +69,18 @@ Software
 + [GAP](http://www.gap-system.org)   
 + [Sage](http://www.sagemath.org)  
     - [Sage packages for Universal Algebra](http://math.chapman.edu/~jipsen/sagepkg/)  
++ [Agda](http://wiki.portal.chalmers.se/agda/pmwiki.php?n=Main.HomePage)
+    - [A nice introductory tutorial](http://www.stephendiehl.com/posts/agda.html) by Stephen Diehl.
+    - [Learn you an agda](https://github.com/williamdemeo/learn-you-an-agda), a fork of Liam O'Connor's book/tutorial (with a few corrections).
+    - [A YouTube tutorial](http://www.youtube.com/watch?v=SQama_q9qtQ&feature=share) that uses the Level module.
+    - [The Agda Wiki](http://wiki.portal.chalmers.se/agda/pmwiki.php?n=Main.HomePage)
++ [Coq](http://coq.inria.fr/)
+    - [Software Foundations](http://www.cis.upenn.edu/~bcpierce/sf/) book by Pierce, et al.  
+    - [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/cpdt.pdf) book by Adam Chlipala.  
+    - [Software Foundations in Coq](http://web.cecs.pdx.edu/~apt/coq_hints.html), tips from OPLSS.  
+    - [YouTube: introductory Coq tutorials](http://www.youtube.com/watch?v=COe0VTNF2EA&list=PLDD40A96C2ED54E99&feature=share), by Andrej Bauer.  
 + [Scala][]  
     - [2013 course "Functional programming principles in Scala"][] -- Coursera course by Martin Odersky.
-+ [Agda][]  
-    - [Interactive Theorem Proving for Agda Users][] -- Swansea University, UK.  
-+ [Coq][]  
-	- [Software Foundations in Coq][] -- tips from OPLSS
-    - [2011 Course on Type Theory and Coq][]
 
 -----------------------------------------------------------------
 
@@ -98,9 +103,11 @@ People
 ------
 If you would like your name to appear here, or you would like it removed, please [open a new issue][].
 
++ [Kira Adaricheva](mailto:kira.adaricheva@nu.edu.kz) ([Nazarbayev University](http://sst.nu.edu.kz/sst/Academics/departments/Mathematics/Mathematics_People/KiraAdaricheva))
 + [Kirby Baker](mailto:baker@math.ucla.edu) ([UCLA](http://www.math.ucla.edu/~baker/))
 + [Cliff Bergman](mailto:cbergman@iastate.edu) ([Iowa State](http://orion.math.iastate.edu/cbergman/))
 + [Roger Bunn](mailto:RogerBunn@missouristate.edu)
++ [David Clark](mailto:clarkd@newpaltz.edu)
 + [Eran Crockett](mailto:crockett@math.binghamton.edu)
 + [Brian Davey](mailto:b.davey@latrobe.edu.au) ([La Trobe University](http://briandavey.ltumathstats.com/))  
 + [William DeMeo](mailto:williamdemeo@gmail.com) ([University of South Carolina](http://williamdemeo.org))
@@ -108,16 +115,19 @@ If you would like your name to appear here, or you would like it removed, please
 + [Jonah Horowitz](mailto:jonah.horowitz@gmail.com)
 + [Alexander Hulpke](mailto:ahulpke@gmail.com) ([Colorado State University](http://www.math.colostate.edu/~hulpke/))
 + [Peter Jipsen](mailto:jipsenp@gmail.com) ([Chapman University](http://www1.chapman.edu/~jipsen/))
-+ [Alexandr Kazda](mailto:alex.kazda@gmail.com)
++ [Alexandr Kazda](mailto:alex.kazda@gmail.com) ([Vanderbilt](http://www.math.vanderbilt.edu/~kazdaa/))
 + [Keith Kearnes](mailto:kearnes@euclid.colorado.edu) ([University of Colorado](http://spot.colorado.edu/~kearnes/))  
 + [Bill Lampe](mailto:bill@math.hawaii.edu) ([University of Hawaii](http://math.hawaii.edu/~bill/))
-+ [Peter Mayr](mailto:peter.mayr@jku.at)
++ [Peter Mayr](mailto:peter.mayr@jku.at) ([Johannes Kepler University](http://www.jku.at/algebra/content/e151722/index_html))
++ [Ralph McKenzie](rn.mckenzie@vanderbilt.edu) ([Vanderbilt](http://sitemason.vanderbilt.edu/site/czXIYM))
 + [George McNulty](mailto:mcnulty@math.sc.edu) ([University of South Carolina](http://www.math.sc.edu/~mcnulty/))
-+ [Matthew Moore](mailto:matthew.d.moore@gmail.com)
++ [Matthew Moore](mailto:matthew.d.moore@gmail.com) ([Vanderbilt](http://www.math.vanderbilt.edu/~moorm10/))
 + [Robert Morse](mailto:rfmorse@gmail.com)
 + [Yuri Movsisyan](mailto:yurimovsisyan@yahoo.com)
 + [J. B. Nation](mailto:jb@math.hawaii.edu) ([University of Hawaii](http://math.hawaii.edu/~jb/))   
-+ [Steven Seif](mailto:steven.seif@louisville.edu)
++ [Anvar Nurakunov](mailto:a.nurakunov@gmail.com) ([Kyrgyzstan National Institute](http://www.mathnet.ru/php/person.phtml?option_lang=eng&personid=29325))
++ [Michael Pinsker](mailto:marula@gmx.at) ([Université Diderot--Paris 7](http://dmg.tuwien.ac.at/pinsker/))
++ [Steven Seif](mailto:steven.seif@louisville.edu) ([University of Louisville](http://www.math.louisville.edu/people/faculty/seif.html))
 + [Matthew Smedberg](mailto:matthewsmedberg@gmail.com)
 + [Agnes Szendrei](mailto:szendrei@euclid.colorado.edu) ([University of Colorado](http://spot.colorado.edu/~szendrei/))
 + [Matt Valeriote](mailto:matt@math.mcmaster.ca) ([McMaster University](http://ms.mcmaster.ca/~matt/))
@@ -155,8 +165,8 @@ If you would like your name to appear here, or you would like it removed, please
 [Push]: https://help.github.com/articles/create-a-repo#step-3-push-your-commit
 [push]: https://help.github.com/articles/create-a-repo#step-3-push-your-commit
 [Scala]: http://www.scala-lang.org/
-[Agda]: http://wiki.portal.chalmers.se/agda/pmwiki.php?n=Main.HomePage
-[Coq]: http://coq.inria.fr/
+[Agda]: 
+[Coq]: 
 [Interactive Theorem Proving for Agda Users]: http://www.cs.swan.ac.uk/~csetzer/lectures/intertheo/07/interactiveTheoremProvingForAgdaUsers.html
 [2013 course "Functional programming principles in Scala"]: https://www.coursera.org/course/progfun
 [Software Foundations in Coq]: http://web.cecs.pdx.edu/~apt/coq_hints.html
