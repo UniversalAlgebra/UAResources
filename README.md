@@ -59,7 +59,8 @@ Books and Papers
 + [The Commutator Book](http://math.hawaii.edu/~ralph/Commutator/), by Ralph Freese and Ralph McKenzie.   
 + [The Structure of Finite Algebras](http://www.math.hawaii.edu/~ralph/Classes/619/HobbyMcKenzie-FiniteAlgebras.pdf), by Hobby and McKenzie.
 
-See also the excellent list of books on [George McNulty's page](http://www.math.sc.edu/~mcnulty/alglatvar/index.html).
+See also the excellent list of resources on George McNulty's 
+[Algebras, Lattices, Varieties course page](http://www.math.sc.edu/~mcnulty/alglatvar/index.html).
 
 -----------------------------------------------------------------
 
@@ -70,9 +71,8 @@ Software
 + [Sage](http://www.sagemath.org)  
     - [Sage packages for Universal Algebra](http://math.chapman.edu/~jipsen/sagepkg/)  
 + [Agda](http://wiki.portal.chalmers.se/agda/pmwiki.php?n=Main.HomePage)
-    - [A nice introductory tutorial](http://www.stephendiehl.com/posts/agda.html) by Stephen Diehl.
     - [Learn you an agda](https://github.com/williamdemeo/learn-you-an-agda), a fork of Liam O'Connor's book/tutorial (with a few corrections).
-    - [A YouTube tutorial](http://www.youtube.com/watch?v=SQama_q9qtQ&feature=share) that uses the Level module.
+    - [Introductory tutorial](http://www.stephendiehl.com/posts/agda.html) by Stephen Diehl.
     - [The Agda Wiki](http://wiki.portal.chalmers.se/agda/pmwiki.php?n=Main.HomePage)
 + [Coq](http://coq.inria.fr/)
     - [Software Foundations](http://www.cis.upenn.edu/~bcpierce/sf/) book by Pierce, et al.  
