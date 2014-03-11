@@ -46,20 +46,20 @@ This section will give a brief overview of universal algebra and point newbies i
 
 Courses
 -------
-+ [Universal Algebra](http://www.math.hawaii.edu/~ralph/Classes/619/) by Ralph Freese.
-+ [Algebras, Lattices, Varieties](http://www.math.sc.edu/~mcnulty/alglatvar/index.html) by George McNulty.
++ [Universal Algebra](http://www.math.hawaii.edu/~ralph/Classes/619/), Ralph Freese.
++ [Algebras, Lattices, Varieties](http://www.math.sc.edu/~mcnulty/alglatvar/index.html), George McNulty.
 + [A Course in Universal Algebra: Part I](https://orion.math.iastate.edu/dpigozzi/588home.html), 
-  [Part II](https://orion.math.iastate.edu/dpigozzi/589home.html), by Don Pigozzi.
+  [Part II](https://orion.math.iastate.edu/dpigozzi/589home.html), Don Pigozzi.
   
 -----------------------------------------------------------------
 
 Books and Papers
 ----------------
-+ [A Course in Universal Algebra](http://www.math.uwaterloo.ca/~snburris/htdocs/ualg.html), by Stanley N. Burris and H.P. Sankappanavar.    
-+ [Universal Algebra](http://www.amazon.com/Universal-Algebra-Fundamentals-Selected-Mathematics/dp/1439851298/), by Cliff Bergman.  
-+ [Notes on Lattice Theory](http://www.math.hawaii.edu/~jb/books.html), by J.B. Nation.
-+ [The Commutator Book](http://math.hawaii.edu/~ralph/Commutator/), by Ralph Freese and Ralph McKenzie.   
-+ [The Structure of Finite Algebras](http://www.math.hawaii.edu/~ralph/Classes/619/HobbyMcKenzie-FiniteAlgebras.pdf), by Hobby and McKenzie.
++ [A Course in Universal Algebra](http://www.math.uwaterloo.ca/~snburris/htdocs/ualg.html), Stanley N. Burris and H.P. Sankappanavar.    
++ [Universal Algebra](http://www.amazon.com/Universal-Algebra-Fundamentals-Selected-Mathematics/dp/1439851298/), Cliff Bergman.  
++ [Notes on Lattice Theory](http://www.math.hawaii.edu/~jb/books.html), J.B. Nation.
++ [The Commutator Book](http://math.hawaii.edu/~ralph/Commutator/), Ralph Freese and Ralph McKenzie.   
++ [The Structure of Finite Algebras](http://www.math.hawaii.edu/~ralph/Classes/619/HobbyMcKenzie-FiniteAlgebras.pdf), Hobby and McKenzie.
 
 See also the excellent list of resources on George McNulty's 
 [Algebras, Lattices, Varieties course page](http://www.math.sc.edu/~mcnulty/alglatvar/index.html).
@@ -74,13 +74,13 @@ Software
     - [Sage packages for Universal Algebra](http://math.chapman.edu/~jipsen/sagepkg/)  
 + [Agda](http://wiki.portal.chalmers.se/agda/pmwiki.php?n=Main.HomePage)
     - [Learn you an agda](https://github.com/williamdemeo/learn-you-an-agda), a fork of Liam O'Connor's book/tutorial (with a few corrections).
-    - [Introductory tutorial](http://www.stephendiehl.com/posts/agda.html) by Stephen Diehl.
+    - [Introductory tutorial](http://www.stephendiehl.com/posts/agda.html), Stephen Diehl.
     - [The Agda Wiki](http://wiki.portal.chalmers.se/agda/pmwiki.php?n=Main.HomePage)
 + [Coq](http://coq.inria.fr/)
-    - [Software Foundations](http://www.cis.upenn.edu/~bcpierce/sf/) book by Pierce, et al.  
-    - [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/cpdt.pdf) book by Adam Chlipala.  
+    - [Software Foundations](http://www.cis.upenn.edu/~bcpierce/sf/) (book) Pierce, et al.  
+    - [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/cpdt.pdf) (book) Adam Chlipala.  
     - [Software Foundations in Coq](http://web.cecs.pdx.edu/~apt/coq_hints.html), tips from OPLSS.  
-    - [YouTube: introductory Coq tutorials](http://www.youtube.com/watch?v=COe0VTNF2EA&list=PLDD40A96C2ED54E99&feature=share), by Andrej Bauer.  
+    - [YouTube: introductory Coq tutorials](http://www.youtube.com/watch?v=COe0VTNF2EA&list=PLDD40A96C2ED54E99&feature=share), Andrej Bauer.  
 + [Scala][]  
     - [2013 course "Functional programming principles in Scala"][] -- Coursera course by Martin Odersky.
 
@@ -103,7 +103,7 @@ Conferences
 
 People
 ------
-If you would like your name to appear here, or you would like it removed, please [open a new issue][].
+If you would like your name added or removed, please [open a new issue][].
 
 + [Kira Adaricheva](mailto:kira.adaricheva@nu.edu.kz) ([Nazarbayev University](http://sst.nu.edu.kz/sst/Academics/departments/Mathematics/Mathematics_People/KiraAdaricheva))
 + [Kirby Baker](mailto:baker@math.ucla.edu) ([UCLA](http://www.math.ucla.edu/~baker/))
@@ -139,8 +139,6 @@ If you would like your name to appear here, or you would like it removed, please
 -----------------------------------------------------------------
 
 
-
-
 [LaTeX]: http://en.wikipedia.org/wiki/LaTeX
 [GitHub]: http://en.wikipedia.org/wiki/Github
 [Git]: http://en.wikipedia.org/wiki/Git_(software)
@@ -167,8 +165,8 @@ If you would like your name to appear here, or you would like it removed, please
 [Push]: https://help.github.com/articles/create-a-repo#step-3-push-your-commit
 [push]: https://help.github.com/articles/create-a-repo#step-3-push-your-commit
 [Scala]: http://www.scala-lang.org/
-[Agda]: 
-[Coq]: 
+[Agda]: http://wiki.portal.chalmers.se/agda/pmwiki.php?n=Main.HomePage
+[Coq]: http://coq.inria.fr/
 [Interactive Theorem Proving for Agda Users]: http://www.cs.swan.ac.uk/~csetzer/lectures/intertheo/07/interactiveTheoremProvingForAgdaUsers.html
 [2013 course "Functional programming principles in Scala"]: https://www.coursera.org/course/progfun
 [Software Foundations in Coq]: http://web.cecs.pdx.edu/~apt/coq_hints.html
