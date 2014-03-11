@@ -46,10 +46,10 @@ This section will give a brief overview of universal algebra and point newbies i
 
 Courses
 -------
++ [Universal Algebra: Part I](https://orion.math.iastate.edu/dpigozzi/588home.html), 
+  [Part II](https://orion.math.iastate.edu/dpigozzi/589home.html), Don Pigozzi.
 + [Universal Algebra](http://www.math.hawaii.edu/~ralph/Classes/619/), Ralph Freese.
 + [Algebras, Lattices, Varieties](http://www.math.sc.edu/~mcnulty/alglatvar/index.html), George McNulty.
-+ [A Course in Universal Algebra: Part I](https://orion.math.iastate.edu/dpigozzi/588home.html), 
-  [Part II](https://orion.math.iastate.edu/dpigozzi/589home.html), Don Pigozzi.
   
 -----------------------------------------------------------------
 
@@ -59,7 +59,8 @@ Books and Papers
 + [Universal Algebra](http://www.amazon.com/Universal-Algebra-Fundamentals-Selected-Mathematics/dp/1439851298/), Cliff Bergman.  
 + [Notes on Lattice Theory](http://www.math.hawaii.edu/~jb/books.html), J.B. Nation.
 + [The Commutator Book](http://math.hawaii.edu/~ralph/Commutator/), Ralph Freese and Ralph McKenzie.   
-+ [The Structure of Finite Algebras](http://www.math.hawaii.edu/~ralph/Classes/619/HobbyMcKenzie-FiniteAlgebras.pdf), Hobby and McKenzie.
++ [The Structure of Finite Algebras](http://www.math.hawaii.edu/~ralph/Classes/619/HobbyMcKenzie-FiniteAlgebras.pdf),
+David Hobby and Ralph McKenzie.
 
 See also the excellent list of resources on George McNulty's 
 [Algebras, Lattices, Varieties course page](http://www.math.sc.edu/~mcnulty/alglatvar/index.html).
