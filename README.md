@@ -48,7 +48,9 @@ Courses
 -------
 + [Universal Algebra](http://www.math.hawaii.edu/~ralph/Classes/619/) by Ralph Freese.
 + [Algebras, Lattices, Varieties](http://www.math.sc.edu/~mcnulty/alglatvar/index.html) by George McNulty.
-
++ [A Course in Universal Algebra: Part I](https://orion.math.iastate.edu/dpigozzi/588home.html), 
+  [Part II](https://orion.math.iastate.edu/dpigozzi/589home.html), by Don Pigozzi.
+  
 -----------------------------------------------------------------
 
 Books and Papers
