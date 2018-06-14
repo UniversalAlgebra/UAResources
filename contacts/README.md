@@ -114,7 +114,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [D. Busneag](busneag@central.ucv.ro)  
 [K. Byleen](karlb@marque.math.mu.edu)  
 
-[(back to top)](#people-connected-to-universal-algebra-lattice-theory- or-related-areas)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory-or-related-areas)
 
 ---
 
@@ -162,7 +162,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [G. Czedli](czedli@math.u-szeged.hu)  
 [J. Czelakowski](jczel@math.uni.opole.pl)  
 
-[(back to top)](#people-connected-to-universal-algebra-lattice-theory- or-related-areas)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory-or-related-areas)
 
 ---
 
@@ -203,7 +203,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [A. Dvurecenskij](dvurecen@mat.savba.sk)  
 [W. Dziobiak](w_dziobiak@rumac.upr.clu.edu)  
 
-[(back to top)](#people-connected-to-universal-algebra-lattice-theory- or-related-areas)
+[back to top](#people-connected-to-universal-algebra-lattice-theory-or-related-areas)
 
 ---
 
