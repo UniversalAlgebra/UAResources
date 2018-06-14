@@ -114,7 +114,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [D. Busneag](busneag@central.ucv.ro)  
 [K. Byleen](karlb@marque.math.mu.edu)  
 
-[Back to top](#a)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory- or-related-areas)
 
 ---
 
@@ -162,7 +162,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [G. Czedli](czedli@math.u-szeged.hu)  
 [J. Czelakowski](jczel@math.uni.opole.pl)  
 
-[Back to top](#a)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory- or-related-areas)
 
 ---
 
@@ -203,7 +203,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [A. Dvurecenskij](dvurecen@mat.savba.sk)  
 [W. Dziobiak](w_dziobiak@rumac.upr.clu.edu)  
 
-[Back to top](#a)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory- or-related-areas)
 
 ---
 
@@ -953,10 +953,11 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 
 ## Emailing Everyone
 
-If you want to email all of the people listed below to announce a conference or call-for-papers,
-download the file [UAContacts.txt.tgz](UAContacts.txt.tgz), unzip and untar the file
-(from the command line, `tar xvzf UAContacts.txt.tgz`), then paste the file contents 
-in the bcc field of your email client.
+If you want to email all of the people listed above (e.g., to announce a conference or call-for-papers),
+download the file
+[UAContacts.txt.tgz](https://github.com/UniversalAlgebra/UAResources/raw/master/contacts/UAContacts.txt.tgz), 
+unzip and untar the file (from the command line, `tar xvzf UAContacts.txt.tgz`), 
+then paste the file contents in the bcc field of your email client.
 
 Please use the list responsibly!
 
