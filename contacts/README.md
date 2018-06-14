@@ -221,7 +221,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [M. Erne](erne@math.uni-hannover.de)  
 [D. Evans](D.Evans@uea.ac.uk)  
 
-[Back to top](#a)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory-or-related-areas)
 
 ---
 
@@ -254,7 +254,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [L. Fuchs](fuchs@tulane.edu)  
 [W. Fussner](Wesley.Fussner@gmail.com)  
 
-[Back to top](#a)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory-or-related-areas)
 
 ---
 
@@ -316,7 +316,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [Z. Gyenis](zalan.gyenis@gmail.com)  
 [S. Gyurki](Stefan.Gyurki@umb.sk)  
 
-[Back to top](#a)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory-or-related-areas)
 
 ---
 
@@ -361,7 +361,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [M. Huth](mrh@doc.ic.ac.uk)  
 [J. Hyndman](hyndman@unbc.ca)  
 
-[Back to top](#a)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory-or-related-areas)
 
 ---
 
@@ -377,7 +377,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [G. F. Italiano](italiano@disp.uniroma2.it)  
 [A. A. Ivanov](ivanov@math.uni.wroc.pl)  
 
-[Back to top](#a)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory-or-related-areas)
 
 ---
 
@@ -410,7 +410,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [A. Jung](a.jung@cs.bham.ac.uk)  
 [H. Jurgensen](helmut@uwo.ca)  
 
-[Back to top](#a)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory-or-related-areas)
 
 ---
 
@@ -470,7 +470,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [D. Kuske](dietrich.kuske@tu-ilmenau.de)  
 [S. Kuznetsov](skuznetsov@yandex.ru)  
 
-[Back to top](#a)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory-or-related-areas)
 
 ---
 
@@ -508,7 +508,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [E. Lukacs](lukacs@math.bme.hu)  
 [I. Lynce](ines@sat.inesc-id.pt)  
 
-[Back to top](#a)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory-or-related-areas)
 
 ---
 
@@ -575,7 +575,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [J. Mycielski](jmyciel@euclid.colorado.edu)  
 [Z. Myrzakul](zmyrzakul@nu.edu.kz)  
 
-[Back to top](#a)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory-or-related-areas)
 
 ---
 
@@ -599,7 +599,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [L. Nourine](lhouari.nourine@univ-bpclermont.fr)  
 [A. Nurakunov](a.nurakunov@gmail.com)  
 
-[Back to top](#a)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory-or-related-areas)
 
 ---
 
@@ -613,7 +613,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [A. Ya. Ovsyannikov](Al.Ovsyannikov@urfu.ru)  
 [K. S. Owens](kate.s.owens@gmail.com)  
 
-[Back to top](#a)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory-or-related-areas)
 
 ---
 
@@ -673,7 +673,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [S. Pulmannova](pulmann@mat.savba.sk)  
 [A. Pultr](pultr@kam.ms.mff.cuni.cz)  
 
-[Back to top](#a)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory-or-related-areas)
 
 ---
 
@@ -683,7 +683,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [T. Quinn-Gregson](tdqg500@york.ac.uk)  
 
 
-[Back to top](#a)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory-or-related-areas)
 
 ---
 
@@ -724,7 +724,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [C. Russo](ciro.russo@ufba.br)  
 [P. Ruzicka](ruzicka@karlin.mff.cuni.cz)  
 
-[Back to top](#a)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory-or-related-areas)
 
 ---
 
@@ -805,7 +805,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [B. Szorenyi](szorenyi@inf.u-szeged.hu)  
 [Z. Szylicka](zszyl@ss5.wsi.opole.pl)  
 
-[Back to top](#a)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory-or-related-areas)
 
 ---
 
@@ -839,7 +839,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [J. Tuma](tuma@karlin.mff.cuni.cz)  
 [G. Turan](gyt@uic.edu)  
 
-[Back to top](#a)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory-or-related-areas)
 
 ---
 
@@ -848,7 +848,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [A. Urquhart](urquhart@cs.toronto.edu)  
 [A. Ursini](aldo.ursini@unisi.it)  
 
-[Back to top](#a)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory-or-related-areas)
 
 ---
 
@@ -876,7 +876,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [H. Vollmer](vollmer@thi.uni-hannover.de)  
 [G. Voutsadakis](gvoutsad@yahoo.com)  
 
-[Back to top](#a)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory-or-related-areas)
 
 ---
 
@@ -918,7 +918,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [R. Woodroofe](russw@math.wustl.edu)  
 [A. Wotzlaw](wotzlaw@informatik.uni-koeln.de)  
 
-[Back to top](#a)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory-or-related-areas)
 
 ---
 
@@ -929,7 +929,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [Y. Yang](yichuanyang@hotmail.com)  
 [J. Yu](jyu@mmrc.iss.ac.cn)  
 
-[Back to top](#a)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory-or-related-areas)
 
 ---
 
@@ -947,7 +947,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [P. Zlatos](pavol.zlatos@fmph.uniba.sk)  
 [A. A. Zolotykh](zolotykh@matis.math.msu.su)  
 
-[Back to top](#a)
+[(back to top)](#people-connected-to-universal-algebra-lattice-theory-or-related-areas)
 
 ---
 
