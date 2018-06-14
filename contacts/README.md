@@ -1,622 +1,966 @@
-## Universal Algebra People
+## People Connected to Universal Algebra, Lattice Theory, or Related Areas
 
-| Name | email | Institution |
-|--- | --- | --- |
+If you would like your name added to, or removed from, the list below, 
+please send an email request to [William DeMeo](mailto:williamdemeo@gmail.com).
+
+If you find your name on the list below, and the link to your email addres is incorrect, or 
+if you have any other comments or suggestions about this page, please email 
+[William DeMeo](mailto:williamdemeo@gmail.com) or simply create a new [github issue][]
+by following [this link][].
+
+If you want to email everyone on the list, see the [instructions below](#emailing-everyone).
+
+---
+
+[A](#a) - [B](#b)	- [C](#c)	- [D](#d)	- [E](#e)	- [F](#f)	- [G](#g)	- [H](#h)	- [I](#i)	- [J](#j)	- [K](#k)	- [L](#l)	- [M](#m)	- [N](#n) -
+ [O](#o)	- [P](#p)	- [Q](#q)	- [R](#r)	- [S](#s)	- [T](#t)	- [U](#u) - [V](#v)	- [W](#w)	- [Y](#y)	- [Z](#z)
+
+---
 
 ## A
-| Nurlan Abdukadyrov | <nabdukadyrov@nu.edu.kz> | |
-| Jiri  Adamek | adamek@iti.cs.tu-bs.de  |
-| Mick  Adams | adamsm@mcs.newpaltz.edu |
-| Kira  Adaricheva | <kira.adaricheva@hofstra.edu> | Hofstra University |
-| Joel  Adler | johan@wins.uva.nl |
-| Charu Aggarwal | <charu@us.ibm.com> | |
-| Paolo  Agliano| agliano@unisi.it |
-| Istvan  Agoston | agoston@cs.elte.hu |
-| Erhard  Aichinger | erhard@bruckner.stoch.uni-linz.ac.at |
-| A.  Akkerman | akkerman@sask.usask.ca |
-| Michael  Albert | malbert@math.otago.ac.nz |
-| Jorge  Almeida | jalmeida@fc.up.pt |
-| Dan  Anderson | dan-anderson@uiowa.edu |
-| Hajnal  Andreka| andreka@math-inst.hu |
-| Carlos  Areces | carlos@wins.uva.nl |
-| Marta Arias | <marias@lsi.upc.edu> | |
-| Vyacheslav  Artamonov | ARTAMON@nw.math.msu.su |
-| Sriehan  Arworn | scmti002@ac.th |
-| Karl  Auinger | karla@banach.mat.univie.ac.at |
-| Giorgio Ausiello | <ausiello@dis.uniroma1.it> | |
+
+[M. Abad](mailto:imabad@criba.edu.ar)  
+[N. Abdukadyrov](mailto:nabdukadyrov@nu.edu.kz)  
+[T. Abe](mailto:CQC00456@nifty.ne.jp)  
+[J. Y. Abuhlail](mailto:abuhlail@kfupm.edu.sa)  
+[J. Adamek](mailto:adamek@iti.cs.tu-bs.de)  
+[M. Adams](mailto:adamsm@newpaltz.edu)  
+[K. Adaricheva](mailto:kira.adaricheva@hofstra.edu)  
+[J. Adler](mailto:johan@wins.uva.nl)  
+[C. Aggarwal](mailto:charu@us.ibm.com)  
+[P. Agliano](mailto:agliano@unisi.it)  
+[I. Agoston](mailto:agoston@cs.elte.hu)  
+[S. Aguzzoli](mailto:aguzzoli@di.unimi.it)  
+[E. Aichinger](mailto:erhard@algebra.uni-linz.ac.at)  
+[A. O. Ajibade](mailto:olubadey2k@yahoo.com)  
+[A. Akkerman](mailto:akkerman@sask.usask.ca)  
+[N. Al Dhamri](mailto:nadias@squ.edu.om)  
+[M. Albert](mailto:malbert@math.otago.ac.nz)  
+[J. Almeida](mailto:jalmeida@fc.up.pt)  
+[J. Alm](mailto:alm.academic@gmail.com)  
+[C. Aten](mailto:caten2@u.rochester.edu)  
+[J. M. Ancochea](mailto:jose_ancochea@mat.ucm.es)  
+[D. Anderson](mailto:dan-anderson@uiowa.edu)  
+[H. Andreka](mailto:andreka@renyi.hu)  
+[S. D. Andres](mailto:dominique.andres@fernuni-hagen.de)  
+[C. Areces](mailto:Carlos.Areces@gmail.com)  
+[M. Arias](mailto:marias@lsi.upc.edu)  
+[V. Artamonov](mailto:ARTAMON@nw.math.msu.su)  
+[K. Auinger](mailto:karl.auinger@univie.ac.at)  
+[G. Ausiello](mailto:ausiello@dis.uniroma1.it)  
+
+--- 
 
 ## B
 
-| Kirby Baker | kab@math.ucla.edu | |
-| Jose Balcazar | <jose.luis.balcazar@upc.edu> | |
-| John Baldwin | jbaldwin@math.uic.edu | |
-| Krisztina Balog | krisz@math.u-szeged.hu  | |
-| Bernard Banaschewski | iscoe@ms.mcmaster.ca | |
-| Paul Bankston | paulb@m.mscs.mu.edu | |
-| Artur Barkhudaryan | artur@karlin.mff.cuni.cz | |
-| Libor Barto | polak@math.muni.cz | |
-| W. Bartol | bartol@mimuw.edu.pl | |
-| W. Bentz | wfbentz@sfu.ca | |
-| Ladislav Beran | lberan@karlin.mff.cuni.cz | |
-| Cliff Bergman | cbergman@iastate.edu | |
-| George Bergman | gbergman@math.berkeley.edu | |
-| Karell Bertet | <kbertet@univ-lr.fr> | |
-| Renato Betti | renbet@ipmma1.polimi.it | |
-| Klaus Biedermann | biedermann@mathematik.tu-darmstadt.de | |
-| Thomas Bier | | |
-| B. Billhardt | billard@hrz.uni-kassel.de | |
-| F. Blanchet-Sadri| blanchet@iris.uncg.edu | |
-| Andreas Blass | ablass@umich.edu | |
-| Ferdinand Boerner| fboerner@rz.uni-potsdam.de | |
-| Madina Bolat | <Madina.Bolat@nu.edu.kz> | |
-| Angel Mora Bonilla | <amora@ctima.uma.es> | |
-| Gabriella Bordalo | mchauser@ptmat.fc.ul.pt | |
-| Endre Boros | <boros@rutcor.rutgers.edu> | |
-| Tim Boykett | tim@timesup.org | |
-| D. Bredikhin | bred@sstu.saratov.su | |
-| Dennison Brown | dbrown@math.uh.edu | |
-| Uwe Bubeck | <bubeck@uni-paderborn.de> | |
-| A. Bucalo | bucalo@unige.it | |
-| Ulrich Buchin | buchin@umwelt.tu-cottbus.de | |
-| A. Budkin | vup@mezon.altai.su | |
-| Andrei Bulatov | andrei.bulatov@usu.ru | |
-| Sydney Bulman-Fleming | sbulman@mach1.wlu.ca | |
-| Roger Bunn | RogerBunn@missouristate.edu|hermlatt@hotmail.com ,, |
-| Peter Burmeister | burmeister@mathematik.tu-darmstadt.de | |
-| Stan Burris | snburris@thoralf2.uwaterloo.ca | |
-| Karl Byleen | karlb@marque.math.mu.edu | |
+[M. Badano](mbadano@famaf.unc.edu.ar)  
+[K. Baker](baker@math.ucla.edu)  
+[J. Balcazar](jose.luis.balcazar@upc.edu)  
+[J. Baldwin](jbaldwin@uic.edu)  
+[B. Banaschewski](iscoe@ms.mcmaster.ca)  
+[P. Bankston](paulb@m.mscs.mu.edu)  
+[K. Balog](krisz@math.u-szeged.hu)  
+[C. Barbut](Claude.Barbut@ehess.fr)  
+[A. Barkhudaryan](artur@karlin.mff.cuni.cz)  
+[L. Barto](libor.barto@gmail.com)  
+[W. Bartol](bartol@mimuw.edu.pl)  
+[W. Bentz](wolfbentz@googlemail.com)  
+[L. Beran](lberan@karlin.mff.cuni.cz)  
+[C. Bergman](cbergman@iastate.edu)  
+[G. Bergman](gbergman@math.berkeley.edu)  
+[M. Behrisch](behrisch@logic.at)  
+[J. Berman](jberman@uic.edu)  
+[K. Bertet](kbertet@univ-lr.fr)  
+[R. Betti](renbet@ipmma1.polimi.it)  
+[K. Biedermann](biedermann@mathematik.tu-darmstadt.de)  
+[G. Bezhanishvili](guram@math.nmsu.edu)  
+[N. Bezhanishvili](N.Bezhanishvili@uva.nl)  
+[V. K. Bhat](vijaykumarbhat2000@yahoo.com)  
+[S. P. Bhatta](s_p_bhatta@yahoo.co.in)  
+[R. J. Bignall](rjbignall@gmail.com)  
+[B. Billhardt](billard@hrz.uni-kassel.de)  
+[G. Binczak](binczak@alpha.mini.pw.edu.pl)  
+[F. Blanchet-Sadri](blanchet@iris.uncg.edu)  
+[A. Blass](ablass@umich.edu)  
+[M. Bodirsky](Manuel.Bodirsky@tu-dresden.de)  
+[J. E. Bonin](jbonin@gwu.edu)  
+[F. Boerner](math@fboerner.de)  
+[M. Bolat](Madina.Bolat@nu.edu.kz)  
+[A. M. Bonilla](amora@ctima.uma.es)  
+[G. Bordalo](mchauser@ptmat.fc.ul.pt)  
+[E. Boros](boros@rutcor.rutgers.edu)  
+[W. J. Z. Botero](wijazubo@hotmail.com)  
+[M. Botur](michal.botur@upol.cz)  
+[K. Boulabiar](karim.boulabiar@ipest.rnu.tn)  
+[D. Bourn](bourn@lmpa.univ-littoral.fr)  
+[T. Boykett](tim@timesup.org)  
+[D. Bredihin](bredikhin@mail.ru)  
+[D. Bredikhin](bred@sstu.saratov.su)  
+[T. Brengos](T.Brengos@mini.pw.edu.pl)  
+[G. Brookfield](gbrookf@exchange.calstatela.edu)  
+[D. Brown](dbrown@math.uh.edu)  
+[U. Bubeck](bubeck@uni-paderborn.de)  
+[A. Bucalo](bucalo@unige.it)  
+[U. Buchin](buchin@umwelt.tu-cottbus.de)  
+[A. I. Budkin](budkin@math.asu.ru)  
+[A. A. Bulatov](abulatov@cs.sfu.ca)  
+[J. Bulin](jakub.bulin@gmail.com)  
+[S. Bulman-Fleming](sbulman@wlu.ca)  
+[H. K. Buning](kbcsl@upb.de)  
+[R. Bunn](RogerBunn@missouristate.edu)  
+[P. Burmeister](burmeister@mathematik.tu-darmstadt.de)  
+[S. Burris](snburris@math.uwaterloo.ca)  
+[M. Busaniche](manuelabusaniche@yahoo.com.ar)  
+[D. Busneag](busneag@central.ucv.ro)  
+[K. Byleen](karlb@marque.math.mu.edu)  
 
+[Back to top](#a)
 
+---
 
 ## C
 
-| Grigore Calugareanu | calu@math.ubbcluj.ro | |
-| Andrew Carson | carson@math.usask.ca | |
-| Ondrej Cepek | <Ondrej.Cepek@mff.cuni.cz> | |
-| Ivan Chajda | chajda@risc.upol.cz | |
-| Louise Charlotte Kappe | | |
-| Gottfried Chen | chen@edumath.u-strasbg.fr | |
-| Agata Ciabattoni | irbis@pol.pl | |
-| J. Cirulis | jc@lanet.lv | |
-| David Clark | clarkd@newpaltz.edu | |
-| Leslie Cohn | cohnl@citadel.edu | |
-| Paul M. Cohn | pmc@math.ucl.ac.uk | |
-| John Coleman | jcoleman@franciscan.edu | |
-| Steve Comer | comers@citadel.edu | |
-| Pablo Cordero | <pcordero@uma.es> | |
-| Yves Crama | <Y.Crama@ulg.ac.be> | |
-| Nadia Creignou | <creignou@lif.univ-mrs.fr> | |
-| Erin Crockett | crockett@math.binghamton.edu | |
-| Sinisa Crvenkovic | sima@unsim.ns.ac.yu | |
-| A. A. Cylke | vau@rpd.univ.kiew.ua | |
-| Bela Csakany| csakany@math.u-szeged.hu | |
-| Eva Czabarka |  | |
-| Gabor Czedli| czedli@math.u-szeged.hu | |
-| Janusz Czelakowski | jczel@math.uni.opole.pl | |
+[L. Cabrer](lmcabrer@yahoo.com.ar)  
+[X. Caicedo](xcaicedo@uniandes.edu.co)  
+[G. Calugareanu](calug2001@yahoo.com)  
+[M. Campercholi](mcampercholi@yahoo.com)  
+[V. Capretta](venanzio@duplavis.com)  
+[A. Carson](carson@math.usask.ca)  
+[C. Carvalho](c.carvalho2@herts.ac.uk)  
+[N. Caspard](ncaspard@gmail.com)  
+[J. L. Castiglione](jlc@mate.unlp.edu.ar)  
+[W. Cegla](cegla@ift.uni.wroc.pl)  
+[O. Cepek](Ondrej.Cepek@mff.cuni.cz)  
+[S. Ceran](sceran@pamukkale.edu.tr)  
+[I. Chajda](ivan.chajda@upol.cz)  
+[M. Charkani](mcharkani@gmail.com)  
+[G. Chen](chen@edumath.u-strasbg.fr)  
+[H. Chen](chyzxl@hunnu.edu.cn)  
+[G. Cherlin](cherlin@math.rutgers.edu)  
+[A. Ciabattoni](agata@logic.at)  
+[R. Cignoli](cignoli@dm.uba.ar)  
+[R. Cignoli](rcignoli@hotmail.com)  
+[J. Cimpric](jaka.cimpric@fmf.uni-lj.si)  
+[J. Cirulis](jc@lanet.lv)  
+[C. Ciupuala](cciupala@yahoo.com)  
+[D. Clark](clarkd@newpaltz.edu)  
+[J. Climent Vidal](juan.b.climent@uv.es)  
+[L. Cohn](cohnl@citadel.edu)  
+[P. M. Cohn](pmc@math.ucl.ac.uk)  
+[J. Coleman](jcoleman@franciscan.edu)  
+[S. Comer](steve.comer@gmail.com)  
+[G. M. Constantine](gmc@math.pitt.edu)  
+[P. Cordero](pcordero@uma.es)  
+[M. Couceiro](miguel.couceiro@loria.fr)  
+[Y. Crama](Y.Crama@ulg.ac.be)  
+[N. Creignou](creignou@lif.univ-mrs.fr)  
+[E. Crockett](crockett@math.binghamton.edu)  
+[S. Crvenkovic](sima@unsim.ns.ac.yu)  
+[A. A. Cylke](vau@rpd.univ.kiew.ua)  
+[B. Csakany](csakany@math.u-szeged.hu)  
+[K. Cvetko-Vah](karin.cvetko@fmf.uni-lj.si)  
+[G. Czedli](czedli@math.u-szeged.hu)  
+[J. Czelakowski](jczel@math.uni.opole.pl)  
+
+[Back to top](#a)
+
+---
 
 ## D
-| J. Dauns | dauns@tulane.edu | |
-| Brian Davey | B.Davey@latrobe.edu.au | |
-| Tara Davis | tdavis@hpu.edu | |
-| Luc Dehaspe | <dehaspe@pharmadm.com> | |
-| James Delgrande | <jim@cs.sfu.ca> | |
-| Dejan Delic | ddelic@acs.ryerson.ca | |
-| Daniel Delling | <daniel.delling@microsoft.com> | |
-| William DeMeo | williamdemeo@gmail.com | |
-| Janos Demetrovics | dj@ilab.sztaki.hu | |
-| Christophe Demko | <christophe.demko@univ-lr.fr> | |
-| Maria Demlova | Demlova@math.feld.cvut.cz | |
-| Klaus Denecke | kdenecke@rz.uni-potsdam.de | |
-| A. or M. Deza | deza@dmi.ens.fr | |
-| Hans Dobbertin | dobbertin@skom.rhein.de | |
-| Jean-Paul Doignon | <doignon@ulb.ac.be> | |
-| Igor Dolinka | dockie@dockie@dmi.uns.ac.rs | |
-| G. Dorfer | g.dorfer@tuwien.ac.at | |
-| D. Dorninger | d.dorninger@tuwien.ac.at | |
-| Ales Drapal | drapal@karlin.mff.cuni.cz | |
-| Hilda Draskovicova | Hilda.Draskovicova@fmph.uniba.sk | |
-| Jozef Dudek | Dudek@Math.Uni.Wroc.Pl | |
-| Vincent Duquenne | <v.duquenne@wanadoo.fr> | |
-| Wieslaw Dziobiak | w_dziobiak@rumac.upr.clu.edu | |
+
+[T.-Y. Dai](Mtydai11576@aol.com)  
+[A. Daneshkhah](adanesh@basu.ac.ir)  
+[M. Darnel](mdarnel@iusb.edu)  
+[J. Dauns](dauns@tulane.edu)  
+[B. Davey](b.davey@latrobe.edu.au)  
+[T. Davis](tdavis@hpu.edu)  
+[L. Dehaspe](dehaspe@pharmadm.com)  
+[J. Delgrande](jim@cs.sfu.ca)  
+[D. Delic](ddelic@acs.ryerson.ca)  
+[D. Delling](daniel.delling@microsoft.com)  
+[W. DeMeo](williamdemeo@gmail.com)  
+[J. Demetrovics](dj@ilab.sztaki.hu)  
+[C. Demko](christophe.demko@univ-lr.fr)  
+[M. Demko](milan.demko@unipo.sk)  
+[M. Demlova](demlova@math.feld.cvut.cz)  
+[K. Denecke](kdenecke@rz.uni-potsdam.de)  
+[M. E. Detlefsen](michael.detlefsen@sru.edu)  
+[A. or M. Deza](deza@dmi.ens.fr)  
+[A. Di Nola](adinola@unisa.it)  
+[M. Diker](mdiker@hacettepe.edu.tr)  
+[H. Dobbertin](dobbertin@skom.rhein.de)  
+[J.-P.l Doignon](doignon@ulb.ac.be)  
+[I. Dolinka](dockie@dmi.uns.ac.rs)  
+[G. Dorfer](g.dorfer@tuwien.ac.at)  
+[D. Dorninger](d.dorninger@tuwien.ac.at)  
+[A. Drapal](drapal@karlin.mff.cuni.cz)  
+[H. Draskovicova](hilda.draskovicova@fmph.uniba.sk)  
+[T. Dube](dubeta@unisa.ac.za)  
+[J. Dudek](Dudek@Math.Uni.Wroc.Pl)  
+[I. Duentsch](duentsch@brocku.ca)  
+[D. Duffus](dwight@mathcs.emory.edu)  
+[V. Duquenne](v.duquenne@wanadoo.fr)  
+[A. Dvurecenskij](dvurecen@mat.savba.sk)  
+[W. Dziobiak](w_dziobiak@rumac.upr.clu.edu)  
+
+[Back to top](#a)
+
+---
 
 ## E
 
+[J. East](J.East@WesternSydney.edu.au)  
+[G. Eigenthaler](g.eigenthaler@tuwien.ac.at)  
+[T. Eiter](eiter@kr.tuwien.ac.at)  
+[M. El Bachraoui](melbachraoui@uaeu.ac.ae)  
+[M. El-Mosalamy](m_elmosalamy@hotmail.com)  
+[M. Enciso](enciso@lcc.uma.es)  
+[N. Endres](endres@rz.mathematik.uni-muenchen.de)  
+[A. Ensor](ensor@unisi.it)  
+[Z. Ercan](zercan@ibu.edu.tr)  
+[M. Erne](erne@math.uni-hannover.de)  
+[D. Evans](D.Evans@uea.ac.uk)  
 
-| Bettina Eick | | |
-| Guenther Eigenthaler| g.eigenthaler@tuwien.ac.at | |
-| Thomas Eiter | <eiter@kr.tuwien.ac.at> | |
-| Manuel Enciso | <enciso@lcc.uma.es> | |
-| Norbert Endres | endres@rz.mathematik.uni-muenchen.de | |
-| Andrew Ensor | ensor@unisi.it | |
-| Marcel Erne| |rne@math.uni-hannover.de ,, |
-| David Evans | D.Evans@uea.ac.uk | |
+[Back to top](#a)
+
+---
 
 ## F
 
+[U. Faigle](faigle@zpr.uni-koeln.de)  
+[D. Failing](david.failing@gmail.com)  
+[N. Fan](nbfan6203@163.com)  
+[J. Farley](lattice.theory@gmail.com)  
+[A. Fearnley](anathia@sympatico.ca)  
+[P. Feit](p_feit@utpb.pb.utexas.edu)  
+[A. Feldman](knoebel@math.vanderbilt.edu)  
+[M. Ferenczi](ferenczi@math.bme.hu)  
+[V. H. Fernandes](vhf@mail.fct.unl.pt)  
+[J. M. Font](jmfont@ub.edu)  
+[I. M. A. Ferreirim](mimafer@ptmat.fc.ul.pt)  
+[D. Firmani](firmani@dis.uniroma1.it)  
+[I. Fleischer](ifleisch@jeeves.uwaterloo.ca)  
+[T. Foguel](tsfoguel@email.wcu.edu)  
+[J. M. Font](jmfont@ub.edu)  
+[D. Foulis](foulis@math.umass.edu)  
+[J. Fountain](jbf1@york.ac.uk)  
+[J. Franco](franco@gauss.ececs.uc.edu)  
+[R. Freese](ralph@math.hawaii.edu)  
+[P. Freyd](pjf@linc.cis.upenn.edu)  
+[H. Freytes](hfreytes@gmail.com)  
+[E. Fried](efried@cs.elte.hu)  
+[R. Fritzsche](reiner.fritzsche@mathematik.uni-halle.de)  
+[T. S. Fuad](tsfuad@iastate.edu)  
+[L. Fuchs](fuchs@tulane.edu)  
+[W. Fussner](Wesley.Fussner@gmail.com)  
 
-| Jonathan Farley | <jonathan.farley@morgan.edu> | |
-| Anne Fearnley | anathia@sympatico.ca | |
-| Paul Feit | p_feit@utpb.pb.utexas.edu | |
-| Arnie Feldman | knoebel@math.vanderbilt.edu | |
-| Victor Hugo Fernandes | vhf@mail.fct.unl.pt | |
-| Isabel M. A. Ferreirim | mimafer@ptmat.fc.ul.pt | |
-| Donatella Firmani | <firmani@dis.uniroma1.it> | |
-| Isidore Fleischer | ifleisch@jeeves.uwaterloo.ca | |
-| Tuval Foguel | tsfoguel@email.wcu.edu | |
-| Josep M. Font | jmfont@ub.edu | |
-| D. Foulis | foulis@math.umass.edu | |
-| J. B. Fountain | jbf1@york.ac.uk | |
-| John Franco | <franco@gauss.ececs.uc.edu> | |
-| Ralph Freese | ralph@math.hawaii.edu|ralphfreese@gmail.com |
-| Peter Freyd | pjf@linc.cis.upenn.edu | |
-| Ervin Fried | efried@cs.elte.hu | |
-| Reiner | Fritzsche | reiner.fritzsche@mathematik.uni-halle.de |
-| T. Simonthyr Fuad | tsfuad@iastate.edu | |
+[Back to top](#a)
+
+---
 
 ## G
 
+[H. Gaitan](gaitan@sun.com)  
+[N. Galatos](ngalatos@du.edu)  
+[B. Ganter](bernhard.ganter@tu-dresden.de)  
+[J. G. Garcia](javier.gutierrezgarcia@ehu.eus)  
+[M. Gehrke](mgehrke@irif.fr)  
+[A. Gely](alain.gely@univ-metz.fr)  
+[B. Gerla](brunella.gerla@uninsubria.it)  
+[A. Gerhard](gerhard@cc.UManitoba.ca)  
+[W. Geyer](w.geyer@dicos.de)  
+[R. Giacobazzi](roberto.giacobazzi@univr.it)  
+[L. Georgiadis](loukas@cs.uoi.gr)  
+[G. Gierz](gierz@math.ucr.edu)  
+[J. Gil-Ferez](jose.gil-ferez@vanderbilt.edu)  
+[P. Gillibert](pgillibert@yahoo.fr)  
+[R. Giuntini](giuntini@unica.it)  
+[E. Gilman](gilman@sgau.saratov.su)  
+[S. Givant](givant@mills.edu)  
+[A. M. W. Glass](amwg@dpmms.cam.ac.uk)  
+[S. Goberstein](sgoberstein@oavax.csuchico.edu)  
+[A. Goetz](abe@cartan.math.nd.edu)  
+[R. Goldblatt](rob.goldblatt@mcs.vuw.ac.nz)  
+[M. Goldstern](martin.goldstern@tuwien.ac.at)  
+[G. M. S. Gomes](ggomes@ptmat.lmc.fc.ul.pt)  
+[K. Goodearl](goodearl@math.ucsb.edu)  
+[S. van Gool](samvangool@me.com)  
+[P. Goralcik](pavel.goralcik@gmail.com)  
+[T. Gorazd](uigorazd@cyf-kr.edu.pl)  
+[V. Gorlov](valera@mmf.bsu.minsk.by)  
+[G. Gottlob](georg.gottlob@cs.ox.ac.uk)  
+[M. Gould](matthew.gould@vanderbilt.edu)  
+[V. Gould](varg1@york.ac.uk)  
+[M. J. Gouveia](mjgouveia@fc.ul.pt)  
+[J. Grabowski](grabo@math.tu-dresden.de)  
+[E. Graczynska](ewa-gra683@wp.pl)  
+[J. Graeter](graeter@rz.uni-potsdam.de)  
+[H. Gramaglia](hector.gramaglia@gmail.com)  
+[M. Gran](marino.gran@uclouvain.be)  
+[M. Grandis](grandis@dima.unige.it)  
+[G. Gratzer](gratzer@me.com)  
+[M. Grech](mgrec@math.uni.wroc.pl)  
+[D. Greechie](greechie@engr.latech.edu)  
+[M. Greenberg](mgreenbe@math.ucalgary.ca)  
+[M. Greferath](Marcus.Greferath@ucd.ie)  
+[J. Grell](grell@math.tu-dresden.de)  
+[P. Grillet](grillet@math.tulane.edu)  
+[H. Gropp](d12@ix.urz.uni-heidelberg.de)  
+[F. D. Grosshans](fgrosshans@wcupa.edu)  
+[A. Gruber](aritanan@eden.rutgers.edu)  
+[J. Grytczuk](jarek@wsp.zgora.pl)  
+[N. Gueorguieva](swu@stud.aubg.bg)  
+[A. Guillen](guillenalejandromanuel@gmail.com)  
+[H. P. Gumm](gumm@mathematik.uni-marburg.de)  
+[F. Guzman](fer@math.binghamton.edu)  
+[Z. Gyenis](zalan.gyenis@gmail.com)  
+[S. Gyurki](Stefan.Gyurki@umb.sk)  
 
-| Hernando Gaitan | gaitan@sun.com | |
-| Nikolaos Galatos | ngalatos@du.edu | |
-| Bernhard Ganter | ganter@math.tu-dresden.de | |
-| Mai Gehrke | jib@rmi.acnet.ge | |
-| Alain Gely | <alain.gely@univ-metz.fr> | |
-| A. Gerhard | gerhard@cc.UManitoba.ca | |
-| Winfried Geyer | wgeyer@telenet.de | |
-| Loukas Georgiadis | <loukas@cs.uoi.gr> | |
-| Gerhard Gierz | gierz@math.ucr.edu | |
-| E. Gilman | gilman@sgau.saratov.su | |
-| Steven Givant | givant@ella.mills.edu | |
-| Simon Goberstein | sgoberstein@oavax.csuchico.edu | |
-| Abraham Goetz | abe@cartan.math.nd.edu | |
-| Robert Goldblatt | rob@math.vuw.ac.nz | |
-| Gracinda M. S. Gomes | ggomes@ptmat.lmc.fc.ul.pt | |
-| K. Goodearl | goodearl@math.ucsb.edu | |
-| Pavel Goralcik | goralcik@dir.univ-rouen.fr | |
-| Tomasz Gorazd | uigorazd@cyf-kr.edu.pl | |
-| Valerie Gorlov | valera%mmf.bsu.minsk.by@relay.ussr.eu.net | |
-| Georg Gottlob | <georg.gottlob@cs.ox.ac.uk> | |
-| Matt Gould | mgould@math.vanderbilt.edu | |
-| Victoria Gould | varg1@york.ac.uk | |
-| Maria Joao Antunes Dias Gouveia | matjoao@ptmat.fc.ul.pt | |
-| Jens-Uwe Grabowski |grabo@math.tu-dresden.de | |
-| Ewa Graczynska | egracz@polo.po.opole.pl | |
-| Joachim Graeter| graeter@rz.uni-potsdam.de | |
-| M. Grandis | grandis@dima.unige.it | |
-| George Gratzer| gratzer@ms.umanitoba.ca | |
-| Richard Greechie | greechie@engr.latech.edu | |
-| Juliana Grell | grell@math.tu-dresden.de | |
-| Pierre Grillet | grillet@math.tulane.edu | |
-| H. Gropp | d12@ix.urz.uni-heidelberg.de | |
-| Aritanan Gruber | <aritanan@eden.rutgers.edu> | |
-| Jaroslaw Grytczuk | jarek@wsp.zgora.pl | |
-| Natacha Gueorguieva | swu@stud.aubg.bg | |
-| Fernando Guzman | francisp@mscs.mu.edu | |
+[Back to top](#a)
+
+---
 
 ## H
 
-| Mark Haiman | mhaiman@macaulay.ucsd.edu | |
-| Radomir Halas | halas@risc.upol.cz | |
-| Tom Hall | tomhall@vaxc.cc.monash.edu.au | |
-| George Hansoul| G.Hansoul@ulg.ac.be | |
-| John Harding | jharding@nmsu.edu | |
-| Bradd Hart | bradd@billy.math.mcmaster.ca | |
-| Simone Hazan | hazan@math.cinvestav.mx | |
-| Michel Hebert | mhebert@mat.ulaval.ca | |
-| Udo Hebisch | hebisch@koala.mathe.tu-freiberg.de | |
-| Barbara Heinecke | heinecke@etech.fh-hamburg.de | |
-| Lisa Hellerstein | <hstein@poly.edu> | |
-| Christian Herrmann | herrmann@mathematik.tu-darmstadt.de | |
-| Ivo Herzog | ivo@sun1.mathematik.uni-freiburg.de | |
-| David Hobby | dkelly@cc.umanitoba.ca | |
-| Wilfrid Hodges | w.hodges@qmw.ac.uk | |
-| Ian Hodkinson | imh@doc.ic.ac.uk | |
-| Karl Hofmann | hofmann@mathematik.tu-darmstadt.de | |
-| W. Charles Holland | chollan@math.bgsu.edu | |
-| Charles Holmes | math@christophwolf.com | |
-| Derek Holt | dietlinde.lau@mathematik.uni-rostock.de | |
-| D. X. Hong | hong@etsu.edu | |
-| John Hooker | <jh38@andrew.cmu.edu> | |
-| Eszter Horvath-Katona | <horeszt@math.u-szeged.hu> | |
-| Tamas Horvath | <tamas.horvath@iais.fraunhofer.de> | |
-| E. Hotzel | hotzel@gmd.de | |
-| John Howie | jmh@maths.st-and.ac.uk | |
-| Alexander Hulpke | hulpke@math.colostate.edu|hulpke@gmail.com ,, |
-| Michael Huth | huth@cis.ksu.edu | |
-| Jennifer Hyndman  | hyndman@unbc.ca | |
+[L. Haddad](haddad-l@rmc.ca)  
+[M. Haiman](mhaiman@math.berkeley.edu)  
+[R. Halas](radomir.halas@upol.cz)  
+[T. Hall](tomhall@vaxc.cc.monash.edu.au)  
+[L. E. Ham](leham@students.latrobe.edu.au)  
+[G. Hansoul](g.hansoul@ulg.ac.be)  
+[J. Harding](jharding@emmy.nmsu.edu)  
+[J. Hart](James.Hart@mtsu.edu)  
+[M. Haviar](miroslav.haviar@umb.sk)  
+[S. Hazan](hazan@math.cinvestav.mx)  
+[W. He](weihe@njnu.edu.cn)  
+[Y. He](ynghe@263.net)  
+[M. Hebert](mhebert@mat.ulaval.ca)  
+[U. Hebisch](hebisch@koala.mathe.tu-freiberg.de)  
+[L. Heindorf](heindorf@math.fu-berlin.de)  
+[B. Heinecke](heinecke@etech.fh-hamburg.de)  
+[L. Hellerstein](hstein@poly.edu)  
+[C. Herrmann](herrmann@mathematik.tu-darmstadt.de)  
+[I. Herzog](ivo@sun1.mathematik.uni-freiburg.de)  
+[D. Hobby](hobbyd@newpaltz.edu)  
+[W. Hodges](wilfrid.hodges@btinternet.com)  
+[I. Hodkinson](i.hodkinson@imperial.ac.uk)  
+[K. H. Hofmann](hofmann@mathematik.tu-darmstadt.de)  
+[C. Holland](chollan@math.bgsu.edu)  
+[S. Holland](holland@math.umass.edu)  
+[C. Holmes](math@christophwolf.com)  
+[T. Holmes](tristanh@hawaii.edu)  
+[D. Holt](D.F.Holt@warwick.ac.uk)  
+[D. X. Hong](hong@etsu.edu)  
+[J. Hooker](jh38@andrew.cmu.edu)  
+[J. Horowitz](jonah.horowitz@gmail.com)  
+[E. Horvath-Katona](horeszt@math.u-szeged.hu)  
+[T. Horvath](tamas.horvath@iais.fraunhofer.de)  
+[E. Hotzel](hotzel@gmd.de)  
+[J. Howie](jmh@maths.st-and.ac.uk)  
+[A. Hulpke](hulpke@math.colostate.edu)  
+[M. Huth](mrh@doc.ic.ac.uk)  
+[J. Hyndman](hyndman@unbc.ca)  
+
+[Back to top](#a)
+
+---
 
 ## I
 
-| Toshi Ibaraki | <ibaraki@ieee.org> | |
-| Pavel Idziak | idziak@kasia.ii.uj.edu.pl | |
-| Matt Insall | insall@umr.edu | |
-| Anwar Irmatov | irmatov@mech.math.msu.su | |
-| John Isbell | ji2@buffalo.edu | |
-| Gabriel Istrate | <gabrielistrate@acm.org> | |
-| Giuseppe F. Italiano | <italiano@disp.uniroma2.it> | |
+[T. Ibaraki](ibaraki@ieee.org)  
+[P. Idziak](idziak@tcs.uj.edu.pl)  
+[M. Insall](insall@mst.edu)  
+[A. Irmatov](irmatov@mech.math.msu.su)  
+[J. Isbell](ji2@buffalo.edu)  
+[B. Ischi](boris.ischi@edu.ge.ch)  
+[G. Istrate](gabrielistrate@acm.org)  
+[G. F. Italiano](italiano@disp.uniroma2.it)  
+[A. A. Ivanov](ivanov@math.uni.wroc.pl)  
+
+[Back to top](#a)
+
+---
 
 ## J
 
-| Danica  Jakubikova-Studenovska | studenovska@duro.upjs.sk | |
-| Robert Jamison | <rejam@clemson.edu> | |
-| George Janelidze | gjanel@rmi.acnet.ge | |
-| M. Janowitz | melj@math.umass.edu | |
-| T. Jech | jech@math.psu.edu | |
-| Joohee Jeong | jhjeong@bigfoot.com | |
-| Jaroslav Jezek | jezek@karlin.mff.cuni.cz | |
-| Peter Jipsen | jipsenp@gmail.com|psen@chapman.edu,, |
-| J. Johnson | jjohnson@uh.edu | |
-| K. Johnson | kwj1@psuvm.psu.edu | |
-| Peter Johnson | peterj@dmat.ufpe.br | |
-| Peter Johnstone | ptj@pmms.cam.ac.uk | |
-| Peter Jones | jones@marque.math.mu.edu | |
-| Bjarni Jonnson| jonsson@math.vanderbilt.edu | |
-| Achim Jung | a.jung@cs.bham.ac.uk | |
-| Helmut  Jurgensen | helmut@uwo.ca | |
+[M. Jackson](m.g.jackson@latrobe.edu.au)  
+[T. Jakl](jaklt@kam.mff.cuni.cz)  
+[D. Jakubikova-Studenovska](danica.studenovska@upjs.sk)  
+[R. Jamison](rejam@clemson.edu)  
+[G. Janelidze](janelg@telkomsa.net)  
+[M. Janowitz](melj@math.umass.edu)  
+[R. Jansana](jansana@mat.ub.es)  
+[P. Janssen](pja@lirmm.fr)  
+[C. Jayaram](jayaram.chillumu@cavehill.uwi.edu)  
+[T. Jech](jech@math.psu.edu)  
+[G. Jenca](gejza.jenca@stuba.sk)  
+[J. Jeong](jhjeong@bigfoot.com)  
+[M. Jerman](marjan.jerman@fmf.uni-lj.si)  
+[P. Jipsen](jipsen@chapman.edu)  
+[S. Johansen](sjohansen112@gmail.com)  
+[E. Johnson](eugene-johnson@uiowa.edu)  
+[J. Johnson](jjohnson@uh.edu)  
+[K. Johnson](kwj1@psuvm.psu.edu)  
+[P. Johnson](peterj@dmat.ufpe.br)  
+[P. T. Johnstone](P.T.Johnstone@dpmms.cam.ac.uk)  
+[K. Johnston-Thom](thomk@cofc.edu)  
+[P. R. Jones](jones@mscs.mu.edu)  
+[V. V. Joshi](vinayakjoshi111@yahoo.com)  
+[Y. B. Jun](ybjun@nongae.gsnu.ac.kr)  
+[A. Jung](a.jung@cs.bham.ac.uk)  
+[H. Jurgensen](helmut@uwo.ca)  
+
+[Back to top](#a)
+
+---
 
 ## K
 
+[K. Kaarli](kaarli@math.ut.ee)  
+[J. Kadourek](kadourek@math.muni.cz)  
+[H. Kaiser](hans.kaiser@tuwien.ac.at)  
+[K. Kaiser](kkaiser@uh.edu)  
+[G. O. Katona](katona.gyula.oh@renyi.mta.hu)  
+[T. Katrinak](tibor.katrinak@fmph.uniba.sk)  
+[Y. Katsov](katsov@hanover.edu)  
+[A. Kazda](alex.kazda@gmail.com)  
+[K. A. Kearnes](kearnes@euclid.colorado.edu)  
+[A. D. Keedwell](a.keedwell@surrey.ac.uk)  
+[N. Kehayopulu](nkehayop@math.uoa.gr)  
+[K. Keimel](keimel@mathematik.tu-darmstadt.de)  
+[A. Kelarev](Andrei.Kelarev@maths.utas.edu.au)  
+[P. Kemp](PaulaKemp@MissouriState.edu)  
+[S. Kerkhoff](Sebastian_kerkhoff@gmx.de)  
+[R. Khardon](roni@cs.tufts.edu)  
+[A. Khodkar](akhodkar@westga.edu)  
+[M. Kilp](mkilp@math.ut.ee)  
+[M. Kilpack](goldstern@tuwien.ac.at)  
+[S. Kingan](Skingan@brooklyn.cuny.edu)  
+[M. Kinyon](Michael.Kinyon@du.edu)  
+[Z. Kiraly](kiraly@cs.elte.hu)  
+[A. Kisielewicz](kisiel@math.uni.wroc.pl)  
+[E. W. Kiss](ewkiss@cs.elte.hu)  
+[B. Kjos-Hanssen](bjoern@math.hawaii.edu)  
+[D. Kletenik](dkletenik@cis.poly.edu)  
+[J. Klimes](klimes@zlin.vutbr.cz)  
+[M. Klin](klin@cs.bgu.ac.il)  
+[L. Klukovits](klukovits@math.u-szeged.hu)  
+[C. Knapp](cmk497@cs.bham.ac.uk)  
+[A. Kogan](kogan@rutgers.edu)  
+[A. Konovalov](logicuwr@math.uni.wroc.pl)  
+[S. Koppelberg](sabina@math.fu-berlin.de)  
+[J. Koppitz](koppitz@uni-potsdam.de)  
+[V. Koubek](koubek@ksi.ms.mff.cuni.cz)  
+[T. Koussas](tkoussas@gmail.com)  
+[T. Kowalski](T.Kowalski@latrobe.edu.au)  
+[M. Kozik](Marcin.Kozik@tcs.uj.edu.pl)  
+[A. Kravchenko](a.v.kravchenko@mail.ru)  
+[A. A. Krokhin](andrei.krokhin@durham.ac.uk)  
+[S. Kublanovskii](stas@norths.spb.su)  
+[P. Kucera](kucerap@ktiml.mff.cuni.cz)  
+[T. Kucera](tkucera@cc.umanitoba.ca)  
+[V. Kuchmei](kucmei@math.ut.ee)  
+[V. B. Kudrjavcev](kudrjavcev@matis.math.msu.su)  
+[J. Kuhr](kuhr@inf.upol.cz)  
+[O. Kullmann](O.Kullmann@swansea.ac.uk)  
+[J. P. Kung](kung@unt.edu)  
+[A. Kurucz](agi.kurucz@kcl.ac.uk)  
+[A. Kurz](axhkrz@gmail.com)  
+[A. Kurz](kurz@mcs.le.ac.uk)  
+[D. Kuske](dietrich.kuske@tu-ilmenau.de)  
+[S. Kuznetsov](skuznetsov@yandex.ru)  
 
-| Kalle Kaarli | kaarli@math.ut.ee | |
-| Jiri Kadourek | kadourek@math.muni.cz | |
-| Hans Kaiser | h.kaiser@tuwien.ac.at |
-| Klaus Kaiser | KKaiser@uh.edu |
-| Gyula OH Katona | <katona.gyula.oh@renyi.mta.hu> | |
-| Tibor Katrinak | Tibor.Katrinak@fmph.uniba.sk | |
-| Yefim Katsov | katsov@hanover.edu | |
-| Alexandr  Kazda | alex.kazda@gmail.com,  kazda@karlin.mff.cuni.cz|
-| Keith  Kearnes | kearnes@euclid.colorado.edu, keith.a.kearnes@gmail.com|
-| Klaus Keimel | keimel@mathematik.tu-darmstadt.de | |
-| Andrei Kelarev | Andrei.Kelarev@maths.utas.edu.au | |
-| Roni Khardon | <roni@cs.tufts.edu> | |
-| M. Kilp | mkilp@math.ut.ee | |
-| Martha Kilpack | goldstern@tuwien.ac.at | |
-| Sandra Kingan | <Skingan@brooklyn.cuny.edu> | |
-| Michael Kinyon | makkai@triples.math.mcgill.ca | |
-| Zoltan Kiraly | <kiraly@cs.elte.hu> | |
-| Andrzej Kisielewicz | kisiel@math.uni.wroc.pl | |
-| Emil W. Kiss | ewkiss@cs.elte.hu | |
-| Bjørn Kjos-Hanssen | bjoern@math.hawaii.edu | |
-| Hans Kleine Buning | <kbcsl@upb.de> | |
-| Devorah Kletenik | <dkletenik@cis.poly.edu> | |
-| Jiri Klimes | klimes@zlin.vutbr.cz  | |
-| Lajos Klukovits | klukovits@math.u-szeged.hu | |
-| Alex Kogan | <kogan@rutgers.edu> | |
-| Alexander Konovalov | logicuwr@math.uni.wroc.pl | |
-| Sabina Koppelberg | sabina@math.fu-berlin.de | |
-| Vaclav Koubek | koubek@ksi.ms.mff.cuni.cz | |
-| Marcin Kozik | greferath@research.att.com | |
-| Aleksandr Kravchenko | avk@xfiles.cs.nstu.ru, a.v.kravchenko@mail.ru | |
-| Andrei Krokhin | andrei.krokhin@durham.ac.uk | |
-| S. Kublanovskii | stas@norths.spb.su | |
-| T. Kucera | tkucera@cc.umanitoba.ca | |
-| Petr Kucera | <kucerap@ktiml.mff.cuni.cz> | |
-| V. B. Kudrjavcev | kudrjavcev@matis.math.msu.su | |
-| Oliver Kullmann | <O.Kullmann@swansea.ac.uk> | |
-| Joseph P. Kung | kung@unt.edu | |
-| Sergei Kuznetsov | <skuznetsov@yandex.ru> | |
+[Back to top](#a)
 
-
+---
 
 ## L
 
-| Peter Ladkin | ladkin@rvs.uni-bielefeld.de | |
-| Helmut Laenger | h.laenger@tuwien.ac.at | |
-| Harry Lakser | hlakser@cc.UManitoba.ca | |
-| Gerard Lallement | gerard@math.psu.edu | |
-| J. Lambek | LAMBEK@TRIPLES.MATH.MCGILL.CA | |
-| Bill Lampe| bill@math.hawaii.edu| |
-| Abdallah Laradji | alaradji@kfupm.edu.sa | |
-| Benoit Larose | benoit.larose@concordia.ca | |
-| Luigi Laura | <laura@dis.uniroma1.it> | |
-| William Lawvere | MTHFWL@ubvms.cc.buffalo.edu | |
-| Jonathan Leech | leech@westmont.edu | |
-| Sorasak Leerattanavalee | scislrtt@cmu.chiangmai.ac.th | |
-| Renato Lewin | rlewin@mat.puc.cl | |
-| Leonid Libkin | libkin@research.bell-labs.com | |
-| Fred Linton | flinton@wesleyan.edu | |
-| Paolo Lipparini | lipparin@mat.utovrm.it | |
-| Estrella Rodríguez Lorenzo | <estrellarodlor@gmail.com> | |
-| Otfried Lueders | lueders@rz.uni-potsdam.de | |
-| Erzsebet Lukacs| lukacs@math.bme.hu | |
-| Ines Lynce | <ines@sat.inesc-id.pt> | |
+[B. Labib](basim200@yahoo.com)  
+[P. Ladkin](ladkin@rvs.uni-bielefeld.de)  
+[H. Laenger](h.laenger@tuwien.ac.at)  
+[H. Lakser](hlakser@cc.UManitoba.ca)  
+[G. Lallement](gerard@math.psu.edu)  
+[J. Lambek](lambek@triples.math.mcgill.ca)  
+[W. A. Lampe](bill@math.hawaii.edu)  
+[A. Laradji](alaradji@kfupm.edu.sa)  
+[B. Larose](blarose@lacim.ca)  
+[M. Laskowski](mcl@math.umd.edu)  
+[D. Lau](dietlinde.lau@mathematik.uni-rostock.de)  
+[L. Laura](laura@dis.uniroma1.it)  
+[W. Lawvere](wlawvere@buffalo.edu)  
+[B. Leclerc](ab.leclerc@free.fr)  
+[A. Ledda](antonio.ledda78@gmail.com)  
+[E. W. H. Lee](edmond.lee@nova.edu)  
+[J. Leech](leech@westmont.edu)  
+[S. Leerattanavalee](scislrtt@cmu.chiangmai.ac.th)  
+[E. Lehtonen](Erkko.Lehtonen@tu-dresden.de)  
+[A. J. Lemin](alex_lemin@hotmail.com)  
+[R. Lewin](rlewin@mat.puc.cl)  
+[L. Libkin](libkin@inf.ed.ac.uk)  
+[F. E. J. Linton](flinton@wesleyan.edu)  
+[P. Lipparini](lipparin@axp.mat.uniroma2.it)  
+[R. Lipyanski](lipyansk@cs.bgu.ac.il)  
+[E. R. Lorenzo](estrellarodlor@gmail.com)  
+[X. Lu](xmlu_nanjing@hotmail.com)  
+[A. Lucchini](lucchini@math.unipd.it)  
+[O. Luders](lueders@rz.uni-potsdam.de)  
+[E. Lukacs](lukacs@math.bme.hu)  
+[I. Lynce](ines@sat.inesc-id.pt)  
+
+[Back to top](#a)
+
+---
 
 ## M
 
-| Hans van Maaren | <h.vanmaaren@tudelft.nl> | |
-| Hajime Machida | machida@math.hit-u.ac.jp | |
-| Rozalia Madarasz | rozi@eunet.yu | |
-| Roger Maddux | maddux@iastate.edu | |
-| Arturo Magidin | awadisk@usl.edu | |
-| Kazim Mahdavi | mahdavk@potsdam.edu | |
-| Kazuhisa Makino | <makino@kurims.kyoto-u.ac.jp> | |
-| Elitza Maneva | <elitza.maneva@gmail.com> | |
-| Sergey Marchenkov | marchen@applmat.msk.su | |
-| Stuart Margolis | stu@lovelace.unl.edu | |
-| Laszlo Marki | marki@math-inst.hu |  |
-| Petar Markovic | pera@dmi.uns.ac.rs | |
-| Smile Markovski | smile@robig.pmf.ukim.edu.mk | |
-| Mikls Maroti| mmaroti@math.vanderbilt.edu| |
-| Pierre Marquis | <marquis@cril.univ-artois.fr> | |
-| Joao Marques-Silva | <jpms@ucd.ie> | |
-| Vincenzo Marra | Vladimir.Repnitskii@usu.ru | |
-| Peter Maserick | phm@math.psu.edu | |
-| Dragan Masulovic | masul@unsim.ns.ac.yu | |
-| Peter Mayr | peter.mayr@jku.at, peter.Mayr@colorado.edu |
-| Donald McAlister | don@math.niu.edu | |
-| William McCune | mccune@mcs.anl.gov | |
-| John McDermott | jmeakin@unlinfo.unl.edu | |
-| Ralph McKenzie | mckenzie@math.vanderbilt.edu | |
-| George McNulty | mcnulty@mailbox.sc.edu | |
-| Laszlo Megyesi | Megyesi@math.u-szeged.hu | |
-| N. S. Mendelsohn | mendel@cc.umanitoba.ca | |
-| Szabolcs Mikulas | szabolcs@dcs.kcl.ac.uk | |
-| Mike Mislove | mwm@math.tulane.edu | |
-| Sidney Mitchell | fts@chulkn.car.chula.ac.th | |
-| Rainer Mlitz | mlitz@umbriel.tuwien.ac.at | |
-| Ieke Moerdijk | moerdijk@math.ruu.nl | |
-| Todor Mollov | mollov@ulcc.uni-plovdiv.bg | |
-| J. Donald Monk | monkd@euclid.Colorado.EDU | |
-| Matthew Moore | notmattmoore@gmail.com | |
-| Yuri Movsisyan | yurimovsisyan@yahoo.com | |
-| Winfried Mueller | winfried.mueller@uni-klu.ac.at | |
-| W. Douglas Munn | wdm@maths.gla.ac.uk | |
-| Manat Mustafa | <manat.mustafa@nu.edu.kz> | |
-| Muthu Muthukrishnan | <muthu@cs.rutgers.edu> | |
-| Jan Mycielski | jmyciel@euclid.colorado.edu | |
-| Zhanbota Myrzakul | <zmyrzakul@nu.edu.kz> | |
+[H. Machida](machida.zauber@gmail.com)  
+[R. Madarasz](rozi@dmi.uns.ac.rs)  
+[R. D. Maddux](maddux@iastate.edu)  
+[A. Magidin](magidin@member.ams.org)  
+[K. Mahdavi](mahdavk@potsdam.edu)  
+[M. Mahmoudi](mojganmahmoudi@yahoo.com)  
+[M. Mainetti](mainetti@chiangmai.ac.th)  
+[K. Makino](makino@kurims.kyoto-u.ac.jp)  
+[M. Makkai](makkai@math.mcgill.ca)  
+[E. Maneva](elitza.maneva@gmail.com)  
+[H. Mao](yushengmao@263.net)  
+[S. Marchenkov](marchen@applmat.msk.su)  
+[S. Margolis](stu@lovelace.unl.edu)  
+[L. Marki](marki@renyi.hu)  
+[P. Markovic](pera@dmi.uns.ac.rs)  
+[S. Markovski](smile@robig.pmf.ukim.edu.mk)  
+[M. Maroti](mmaroti@math.u-szeged.hu)  
+[P. Marquis](marquis@cril.univ-artois.fr)  
+[J. Marques-Silva](jpms@ucd.ie)  
+[V. Marra](vladimir.repnitskii@usu.ru)  
+[J. Martinez](gnocchiverdi@gmail.com)  
+[J. C. Martinez](jcmartinez@ub.edu)  
+[P. Maserick](phm@math.psu.edu)  
+[D. Masulovic](masul@dmi.uns.ac.rs)  
+[R. Mayet](rene.mayet@wanadoo.fr)  
+[P. Mayr](Peter.Mayr@colorado.edu)  
+[D. McAlister](don@math.niu.edu)  
+[W. McCune](mccune@mcs.anl.gov)  
+[J. McDermott](jmeakin@unlinfo.unl.edu)  
+[R. N. McKenzie](ralph.n.mckenzie@vanderbilt.edu)  
+[G. McNulty](mcnulty@math.sc.edu)  
+[L. Megyesi](Megyesi@math.u-szeged.hu)  
+[N. S. Mendelsohn](mendel@cc.umanitoba.ca)  
+[G. Metcalfe](george.metcalfe@math.unibe.ch)  
+[Sz. Mikulas](szabolcs@dcs.bbk.ac.uk)  
+[M. Mislove](mwm@math.tulane.edu)  
+[J. D. Mitchell](jdm3@st-and.ac.uk)  
+[R. Mlitz](mlitz@umbriel.tuwien.ac.at)  
+[I. Moerdijk](moerdijk@math.uu.nl)  
+[M. R. Molaei](mrmolaei@mail.uk.ac.ir)  
+[T. Mollov](mollov@ulcc.uni-plovdiv.bg)  
+[B. Monjardet](bernard.monjardet@dbmail.com)  
+[J. D. Monk](monkd@euclid.colorado.edu)  
+[L. F. Monteiro](luizmont@criba.edu.ar)  
+[M. Moore](matthew.d.moore@gmail.com)  
+[M. Moroni](msmoroni@gmail.com)  
+[R. Morse](rfmorse@gmail.com)  
+[M. A. Moshier](moshier@chapman.edu)  
+[Y. M. Movsisyan](yurimovsisyan@yahoo.com)  
+[I. Mozo Carollo](imanol.mozo@ehu.eus)  
+[A. Mucka](A.Mucka@mini.pw.edu.pl)  
+[W. Mueller](winfried.mueller@uni-klu.ac.at)  
+[M. Mukaidono](masao@cs.meiji.ac.jp)  
+[D. Mundici](mundici@math.unifi.it)  
+[W. D. Munn](wdm@maths.gla.ac.uk)  
+[Q. Mushtaq](qmushtaq@apollo.net.pk)  
+[M. Mustafa](manat.mustafa@nu.edu.kz)  
+[M. Muthukrishnan](muthu@cs.rutgers.edu)  
+[J. Mycielski](jmyciel@euclid.colorado.edu)  
+[Z. Myrzakul](zmyrzakul@nu.edu.kz)  
 
-# N
-| Masataka Nakamura | <nakamura@klee.c.u-tokyo.ac.jp> | |
-| Umberto Nanni | <nanni@dis.uniroma1.it> | |
-| JB Nation | jb@math.hawaii.edu | |
-| Chrystopher Nehaniv | c.l.nehaniv@herts.ac.uk | |
-| Istvan Nemeti| nemeti@math-inst.hu | |
-| B. H. Neumann | bhn102@phys.anu.edu.au | |
-| P. Niederkorn | P.Niederkorn@ulg.ac.be | |
-| Josef Niederle | niederle@math.muni.cz | |
-| P. Normak | pnormak@tpu.ee | |
-| Lhouari Nourine | <lhouari.nourine@univ-bpclermont.fr> | |
+[Back to top](#a)
 
+---
+
+## N
+
+[H. Nagahashi](nagahashi_h@yahoo.com)  
+[S. Naher](snaher@yahoo.com)  
+[M. Nakamura](nakamura@klee.c.u-tokyo.ac.jp)  
+[U. Nanni](nanni@dis.uniroma1.it)  
+[J. B. Nation](jb@math.hawaii.edu)  
+[C. Nebiyev](cnebiyev@omu.edu.tr)  
+[S. Negri](negri@cc.helsinki.fi)  
+[C. Nehaniv](c.l.nehaniv@herts.ac.uk)  
+[G. Nelson](gnelson@math.uiowa.edu)  
+[I. Nemeti](nemeti@renyi.hu)  
+[B. H. Neumann](bhn102@phys.anu.edu.au)  
+[L. Nguyen](long_nt@qtttc.edu.vn)  
+[P. Niederkorn](P.Niederkorn@ulg.ac.be)  
+[J. Niederle](niederle@math.muni.cz)  
+[P. Normak](peeter.normak@tlu.ee)  
+[L. Nourine](lhouari.nourine@univ-bpclermont.fr)  
+[A. Nurakunov](a.nurakunov@gmail.com)  
+
+[Back to top](#a)
+
+---
 
 ## O
-| Sergey Objedkov | <sergei.obj@gmail.com> | |
-| F. Olmedo | folmedo@goliat.ugr.es | |
-| Alexander Ya. Ovsyannikov | alexander.ovsyannikov@usu.ru | |
+
+[S. Objedkov](sergei.obj@gmail.com)  
+[F. Olmedo](folmedo@ugr.es)  
+[M. Olsak](mirek@olsak.net)  
+[J. Olson](jolson@norwich.edu)  
+[J. Oprsal](oprsal.jakub@gmail.com)  
+[A. Ya. Ovsyannikov](Al.Ovsyannikov@urfu.ru)  
+[K. S. Owens](kate.s.owens@gmail.com)  
+
+[Back to top](#a)
+
+---
 
 ## P
 
+[R. Padmanabhan](Ranganathan.Padmanabhan@umanitoba.ca)  
+[P. P. Palfy](ppp@renyi.hu)  
+[A. Palmigiano](A.Palmigiano@tudelft.nl)  
+[F. Paoli](paoli@unica.it)  
+[D. V. J. Patricio](jpdiazvarela@gmail.com)  
+[G. Paseman](paseman@math.berkeley.edu)  
+[M. C. Pedicchio](pedicchi@univ.trieste.it)  
+[C. Pelea](cpelea@math.ubbcluj.ro)  
+[G. Penn](gpenn@cs.utoronto.ca)  
+[P. Peppas](pavlos@upatras.gr)  
+[N. Perkal](N.Perkal@latrobe.edu.au)  
+[D. Perrin](perrin@univ-mlv.fr)  
+[J.-M. Petit](jean-marc.petit@insa-lyon.fr)  
+[J. Picado](picado@mat.uc.pt)  
+[D. Pickering](pickering@brandonu.ca)  
+[D. Pigozzi](dpigozzi@iastate.edu)  
+[A. Pilitowska](A.Pilitowska@mini.pw.edu.pl)  
+[G. Pilz](guenter.pilz@jk.uni-linz.ac.at)  
+[J.-E. Pin](pin@litp.ibp.fr)  
+[M. Pinsker](marula@gmx.at)  
+[A. Pinus](ag.pinus@gmail.com)  
+[K. Pioro](kpioro@mimuw.edu.pl)  
+[J. Pitkethly](J.Pitkethly@latrobe.edu.au)  
+[A. Pixley](pixley@mcn.org)  
+[R. Piziak](piziakr@baylor.edu)  
+[C. R. Platt](Craig.Platt@umanitoba.ca)  
+[P. Plaumann](Peter.Trotter@maths.utas.edu.au)  
+[J. Plonka](jersabi@wp.pl)  
+[M. Ploscica](ploscica@saske.sk)  
+[E. Plotkin](plotkin@bimacs.cs.biu.ac.il)  
+[T. Plotkin](plotkin@macs.biu.ac.il)  
+[J. Pocs](pocs@saske.sk)  
+[A. Pogel](apogel@tiger.cc.oxy.edu)  
+[G. Pogosyan](grant@icu.ac.jp)  
+[W. Poguntke](el701@dhafeu11.bitnet)  
+[L. Polak](polak@math.muni.cz)  
+[G. Pollak](pollak@math.u-szeged.hu)  
+[S. Pollandt](pollandt@mathematik.tu-darmstadt.de)  
+[T. Poomsaard](tiang@kku1.kku.ac.th)  
+[A. Popescu](uuomul@yahoo.com)  
+[S. Porschen](Stefan.Porschen@htw-berlin.de)  
+[H.-E. Porst](porst@math.uni-bremen.de)  
+[R. Poschel](Reinhard.Poeschel@tu-dresden.de)  
+[M. Pouzet](pouzet@univ-lyon1.fr)  
+[W. Powell](wpowell@okway.okstate.edu)  
+[R. C. Powers](rcpowe01@louisville.edu)  
+[V. Pratt](pratt@cs.stanford.edu)  
+[S. Priess](priess@rz.math.uni-muenchen.de)  
+[H. Priestley](hap@maths.ox.ac.uk)  
+[P. Prohle](prohlep@math.bme.hu)  
+[J. Propp](propp@jamespropp.org)  
+[S. Pulmannova](pulmann@mat.savba.sk)  
+[A. Pultr](pultr@kam.ms.mff.cuni.cz)  
 
-| R. Padmanabhan | padman@cc.umanitoba.ca | |
-| Peter Pal Palfy | ppp@math-inst.hu | |
-| Gerhard Paseman | paseman@math.berkeley.edu | |
-| Maria Cristina Pedicchio | pedicchi@univ.trieste.it | |
-| Pavlos Peppas | <pavlos@upatras.gr> | |
-| Dominique Perrin | perrin@univ-mlv.fr | |
-| Jean-Marc Petit | <jean-marc.petit@insa-lyon.fr> | |
-| Doug Pickering | PICKERING@BrandonU.CA | |
-| Don Pigozzi | dpigozzi@iastate.edu | |
-| Guenter Pilz| guenter.pilz@jk.uni-linz.ac.at | |
-| Jean-Eric Pin | pin@litp.ibp.fr | |
-| Michael Pinsker | RODDY@BrandonU.CA | |
-| Alexander Pinus | algebra@nstu.nsk.su | |
-| Alden Pixley | apixley@thuban.ac.hmc.edu | |
-| Robert Piziak | PIZIAKR@baylor.edu | |
-| Craig Platt | platt@cc.umanitoba.ca | |
-| Peter Plaumann | Peter.Trotter@maths.utas.edu.au | |
-| Miroslav Ploscica | ploscica@linux1.saske.sk | |
-| Eugene Plotkin | plotkin@bimacs.cs.biu.ac.il | |
-| Reinhard Poeschel | reinhard.poeschel@tu-dresden.de | |
-| A. Pogel | apogel@tiger.cc.oxy.edu | |
-| G. Pogosyan | grant@icu.ac.jp | |
-| Werner Poguntke | EL701@DHAFEU11.BITNET | |
-| Gyorgy Pollak pollak@math.u-szeged.hu || |
-| S. Pollandt | pollandt@mathematik.tu-darmstadt.de | |
-| Tiang Poomsaard | tiang@kku1.kku.ac.th | |
-| Stefan Porschen | <Stefan.Porschen@htw-berlin.de> | |
-| Maurice Pouzet | mhenriksen@hmc.edu | |
-| Wayne Powell | wpowell@OKWAY.OKSTATE.EDU | |
-| Vaughan Pratt | pratt@CS.Stanford.EDU | |
-| Sibylla Priess| priess@rz.math.uni-muenchen.de |
-| Hilary Priestley | hap@maths.ox.ac.uk | |
-| Peter Prohle | prohlep@cs.elte.hu | |
-| Ales Pultr | pultr@kam.ms.mff.cuni.cz | |
+[Back to top](#a)
 
+---
 
 ## Q
-| Robert Quackenbush | qbush@cc.umanitoba.ca | |
 
+[R. W. Quackenbush](qbush@umanitoba.ca)  
+[T. Quinn-Gregson](tdqg500@york.ac.uk)  
+
+
+[Back to top](#a)
+
+---
 
 ## R
 
-| J. Rachunek | rachunek@risc.upol.cz | |
-| John Rafter | jarafter@math.vanderbilt.edu | |
-| James Raftery | raftery@ph.und.ac.za | |
-| M. Ramalho | mramalho@cc.fc.ul.pt | |
-| Sara Rat | <sara.rat@nu.edu.kz> | |
-| Ellen Redi | eredi@lin2.tpu.ee | |
-| Norman Reilly | nreilly@cs.sfu.ca | |
-| Marlies Reschke | kreschke@rz.uni-potsdam.de | |
-| Klaus Reuter | reuter@math.uni-hamburg.de | |
-| John Rhodes | rhodes@math.berkeley.edu | |
-| Jacques Riguet | riguet@noos.fr | |
-| Ivan Rival | rival@csi.uottawa.ca | |
-| Edmund Robertson | edmund@dcs.st-and.ac.uk | |
-| Anna Romanowska | aroman@alpha.im.pw.edu.pl | |
-| Henry Rose| rose@maths.uct.ac.za | |
-| Ivo Rosenberg | rosenb@ERE.Umontreal.CA | |
-| G. Rosolini | rosolini@disi.unige.it | |
-| Barbara Roszkowska-Lech | barosz@alpha.im.pw.edu.pl | |
-| Dan Roth | <danr@illinois.edu>   |   |    | |
-| William Rowan | rowan@crl.com | |
-| Matti Rubin | matti@cs.bgu.ac.il | |
-| Sebastian Rudolph | <sebastian.rudolph@tu-dresden.de> | |
-| Nik Ruskuc | nik@dcs.st-and.ac.uk | |
+[J. Rachunek](rachunek@inf.upol.cz)  
+[S. Radeleczki](matradi@uni-miskolc.hu)  
+[J. Rafter](jarafter@math.vanderbilt.edu)  
+[J. Raftery](james.raftery@up.ac.za)  
+[M. Ramalho](mbramalho@fc.ul.pt)  
+[R. M. Raphael](raphael@alcor.concordia.ca)  
+[S. Rat](sara.rat@nu.edu.kz)  
+[C. Ratanaprasert](ratach@su.ac.th)  
+[R. H. Redfield](rredfiel@hamilton.edu)  
+[E. Redi](eredi@lin2.tpu.ee)  
+[N. Reilly](nreilly@cs.sfu.ca)  
+[V. B. Repnitskii](vladimir.repnitskii@urfu.ru)  
+[M. Reschke](kreschke@rz.uni-potsdam.de)  
+[K. Reuter](reuter@math.uni-hamburg.de)  
+[J. Rhodes](rhodes@math.berkeley.edu)  
+[G. Richter](gerd@dres-richter.de)  
+[J. Riguet](riguet@noos.fr)  
+[I. Rival](rival@csi.uottawa.ca)  
+[E. Robertson](edmund@dcs.st-and.ac.uk)  
+[M. Roddy](roddy@brandonu.ca)  
+[A. Romanowska](aroman@mini.pw.edu.pl)  
+[H. Rose](rose@maths.uct.ac.za)  
+[I. Rosenberg](rosenb@DMS.UMontreal.CA)  
+[J. Rosicky](rosicky@math.muni.cz)  
+[G. Rosolini](rosolini@disi.unige.it)  
+[B. Roszkowska-Lech](barosz@alpha.im.pw.edu.pl)  
+[D. Roth](danr@illinois.edu)  
+[W. H. Rowan](whrowan@member.ams.org)  
+[B. Rozenblat](bella@cs.bgu.ac.il)  
+[M. Rubin](matti@cs.bgu.ac.il)  
+[S. Rudolph](sebastian.rudolph@tu-dresden.de)  
+[N. Ruskuc](nik@dcs.st-and.ac.uk)  
+[C. Russo](ciro.russo@ufba.br)  
+[P. Ruzicka](ruzicka@karlin.mff.cuni.cz)  
 
+[Back to top](#a)
 
+---
 
 ## S
 
-| Gabor Sagi| sagi@math-inst.hu | |
-| Ildiko Sain | sain@math-inst.hu | |
-| Alibek Sailanbayev | <alibek.sailanbayev@nu.edu.kz> | |
-| A. Salas | ajrs@goliat.ugr.es | |
-| Attila Sali | <sali@renyi.hu> | |
-| Nino Salibra | salibra@dsi.unive.it | |
-| V. Salii | salii.ma.sgu@oda.ssu.runnet.ru | |
-| Eric SanJuan-Ibekwe | <eric.sanjuan@univ-avignon.fr> | |
-| Hantamantagouda Sankappanavar | sanka@mcs.newpaltz.edu | |
-| Mark Sapir | msapir@math.vanderbilt.edu | |
-| Petr Savicky | <Savicky@cs.cas.cz> | |
-| Raffaele Scapellato | king_raphael@yahoo.it | |
-| Boris Schein | bschein@comp.uark.edu | |
-| Jurg Schmid | schmid@math-stat.unibe.ch | |
-| Stefan Schmidt | schmidt@mat.mathematik.uni-mainz.de | |
-| Tamas Schmidt | schmidt@math.bme.hu | |
-| Dietmar Schweigert | schweigert@mathematik.uni-kl.de | |
-| Dana Scott | dana.scott@cs.cmu.edu | |
-| Steve Seif | swseif01@athena.louisville.edu|steven.seif@louisville.edu| |
-| Luis Sequeira | lsequeir@fc.ul.pt | |
-| Branimir Seselja | seselja@unsim.ns.ac.yu | |
-| Helena Maria E. Sezinando | mhelena@ptmat.lmc.fc.ul.pt | |
-| Saharon Shelah | shelah@math.huji.ac.il | |
-| Lev Shevrin | lev.shevrin@usu.ru | |
-| Slavcho Shtrakov | shtrakov@aix.swu.bg | |
-| Kar Ping Shum | kpshum@cuhk.edu.hk | |
-| Donald Silberger | silberger@mcs.newpaltz.edu, donaldsilberger@gmail.com  | |
-| Sylvia Silberger | <sylvia.silbereger@hofstra.edu> | |
-| Andras Simon | andras@math-inst.hu | |
-| Carsten Sinz | <carsten.sinz@kit.edu> | |
-| Jozef Slapal | slapal@kinf.fme.vutbr.cz | |
-| Robert Sloan | <sloan@uic.edu> | |
-| Lance W. Small | lwsmall@ucsd.edu | |
-| Matthew  Smedberg | matt@math.mcmaster.ca, matthewsmedberg@gmail.com| |
-| J.D.H. Smith | jdhsmith@math.iastate.edu | |
-| John Snow | jsnow@shsu.edu, john.Snow@cune.edu |
-| Ewald Speckenmayer | <esp@informatik.uni-koeln.de> | |
-| Sergei Starchenko | starchen@math.vanderbilt.edu | |
-| Bogdan Staruch | bstar@wacek.wsp.olsztyn.pl | |
-| Bozena Staruch | bstar@art.olsztyn.pl | |
-| Despina Stasi | <stasdes@iit.edu> | |
-| Joseph (Buck) Stephen | buck@math.niu.edu | |
-| Manfred Stern | manfred@mstern.de | |
-| Mike Stone | mgstone@acs.ucalgary.ca | |
-| Birger Strauch | bstrauch@zeus.math.uni-rostock.de | |
-| Indulis Strazdins | lzalumi@cclu.lv | |
-| Csaba Szabo| csaba@cs.elte.hu | |
-| Laszlo Szabo| szabol@math.u-szeged.hu | |
-| Laszlo Szekely | | |
-| Agnes  Szendrei | Agnes.Szendrei@colorado.edu, szendrei@colorado.edu, szendrei@euclid.colorado.edu | |
-| Maria Szendrei | M.Szendrei@math.u-szeged.hu | |
-| Balazs Szorenyi | <szorenyi@inf.u-szeged.hu> | |
-| Zyta Szylicka | zszyl@ss5.wsi.opole.pl | |
+[G. Sagi](sagi@renyi.hu)  
+[I. Sain](sain@renyi.hu)  
+[A. Sailanbayev](alibek.sailanbayev@nu.edu.kz)  
+[A. Salas](ajrs@goliat.ugr.es)  
+[A. Sali](sali@renyi.hu)  
+[A. Salibra](salibra@dsi.unive.it)  
+[H. J. San Martin](hernan_sm5@hotmail.com)  
+[P. Sanchez Terraf](sterraf@famaf.unc.edu.ar)  
+[N. I. Sandu](sandunat@yahoo.com)  
+[E. SanJuan-Ibekwe](eric.sanjuan@univ-avignon.fr)  
+[H. Sankappanavar](sankapph@newpaltz.edu)  
+[M. Sapir](msapir@math.vanderbilt.edu)  
+[P. Savicky](Savicky@cs.cas.cz)  
+[R. Scapellato](king_raphael@yahoo.it)  
+[B. M. Schein](bschein@uark.edu)  
+[J. Schmid](juerg.schmid@math.unibe.ch)  
+[S. E. Schmidt](stefan.schmidt@tu-dresden.de)  
+[T. Schmidt](schmidt@math.bme.hu)  
+[F.-M. Schneider](Friedrich-Martin.Schneider@online.de)  
+[B. S. W. Schroder](schroder@coes.latech.edu)  
+[N. Schwartz](schwartz@fim.uni-passau.de)  
+[D. Schweigert](schweigert@mathematik.uni-kl.de)  
+[D. Scott](dana.scott@cs.cmu.edu)  
+[S. Seif](swseif01@louisville.edu)  
+[M. Semenova](udav17@gmail.com)  
+[L. Sequeira](lfsequeira@fc.ul.pt)  
+[B. Seselja](branimir.seselja@dmi.uns.ac.rs)  
+[H. M. E. Sezinando](mhelena@ptmat.lmc.fc.ul.pt)  
+[V. Y. Shaprynskii](vshapr@yandex.ru)  
+[S. Shelah](shelah@math.huji.ac.il)  
+[M. Sheremet](msheremet@gmail.com)  
+[L. N. Shevrin](lev.shevrin@urfu.ru)  
+[S. Shtrakov](shtrakov@swu.bg)  
+[K. P. Shum](kpshum@cuhk.edu.hk)  
+[D. Silberger](donaldsilberger@gmail.com)  
+[S. Silberger](sylvia.silbereger@hofstra.edu)  
+[P. Silva](pvsilva@fc.up.pt)  
+[H. Simmons](hsimmons@cs.man.ac.uk)  
+[A. Simon](andras@renyi.hu)  
+[C. Sinz](carsten.sinz@kit.edu)  
+[B. Skublics](skublics.benedek@renyi.mta.hu)  
+[J. Slapal](slapal@kinf.fme.vutbr.cz)  
+[R. Sloan](sloan@uic.edu)  
+[L. W. Small](lwsmall@ucsd.edu)  
+[M. Smedberg](matthewsmedberg@gmail.co)  
+[J. D. H. Smith](jdhsmith@iastate.edu)  
+[J. W. Snow](John.Snow@cune.edu)  
+[N. Sohail](nsohail@wlu.ca)  
+[O. Sokratova](olga-sokratova@uiowa.edu)  
+[L. Spada](luca.spada@gmail.com)  
+[E. Speckenmayer](esp@informatik.uni-koeln.de)  
+[M. Spinks](mspinksau@yahoo.com.au)  
+[R. Srithus](hnong79@gmail.com)  
+[D. Stanovsky](stanovsk@karlin.mff.cuni.cz)  
+[S. Starchenko](starchen@math.vanderbilt.edu)  
+[B. Staruch](bstar@uwm.edu.pl)  
+[D. Stasi](stasdes@iit.edu)  
+[J. Stephen](buck@math.niu.edu)  
+[M. Stern](info@manfred-stern.de)  
+[G. St. John](gavinstjohn@gmail.com)  
+[T. Stokes](stokes@math.waikato.ac.nz)  
+[M. G. Stone](mgstone@ucalgary.ca)  
+[B. Strauch](bstrauch@zeus.math.uni-rostock.de)  
+[I. Strazdins](lzalumi@cclu.lv)  
+[M. Stronkowski](M.Stronkowski@mini.pw.edu.pl)  
+[S. R. Sykes](ssykes@westga.edu)  
+[Cs. Szabo](csaba@cs.elte.hu)  
+[L. Szabo](szabol@math.u-szeged.hu)  
+[Z. Szekely](zszekely@triton.uog.edu)  
+[A. Szendrei](Agnes.Szendrei@Colorado.edu)  
+[M. Szendrei](M.Szendrei@math.u-szeged.hu)  
+[D. Sziraki](dmvszdi@gmail.com)  
+[B. Szorenyi](szorenyi@inf.u-szeged.hu)  
+[Z. Szylicka](zszyl@ss5.wsi.opole.pl)  
 
+[Back to top](#a)
 
+---
 
 ## T
-| Geza Takach| takach@inf.nyme.hu | |
-| Rustem Takhanov | <rustem.takhanov@nu.edu.kz> | |
-| Gabor Tardos| tardos@math-inst.hu | |
-| Suguru Tamaki | <tamak@kuis.kyoto-u.ac.jp> | |
-| Boza Tasic | tasic@unsim.ns.ac.yu | |
-| Walter Taylor | wtaylor@euclid.colorado.edu | |
-| Andreja Tepavcevic | etepavce@eunet.yu | |
-| Walter Tholen | tholen@mathstat.yorku.ca | |
-| Kathy Johnston Thom | johnstonk@cofc.edu | |
-| Mikkel Thorup | <mikkel2thorup@gmail.com> | |
-| Michael Tischendorf | 100435.1514@compuserve.com | |
-| Rahul Tripathi | <tripathi@cse.usf.edu> | |
-| Vera Trnkova | trnkova@karlin.mff.cuni.cz | |
-| W. T. Trotter | trotter@asu.edu | |
-| Steve Tschantz | tschantz@math.vanderbilt.edu | |
-| Constantine Tsinakis | tsinakis@math.vanderbilt.edu | |
-| Jiri Tuma | tuma@karlin.mff.cuni.cz | |
-| Gyorgy Turan | <gyt@uic.edu> | |
+
+[G. Takach](takach@inf.nyme.hu)  
+[R. Takhanov](rustem.takhanov@nu.edu.kz)  
+[R. Talukder](rashed_math@yahoo.com)  
+[S. Tamaki](tamak@kuis.kyoto-u.ac.jp)  
+[G. Tardos](tardos@renyi.hu)  
+[B. Tasic](btasic@ryerson.ca)  
+[C. J. Taylor](cj11taylor@students.latrobe.edu.au)  
+[W. Taylor](walter.taylor@colorado.edu)  
+[A. Tekcan](fahmet@uludag.edu.tr)  
+[M. Tellechea](mauriciotellechea@gmail.com)  
+[E. Temgoua Alomo](retemgoua@yahoo.fr)  
+[A. Tepavcevic](andreja@dmi.uns.ac.rs)  
+[N. K. Thakare](nkthakare@gmail.com)  
+[W. Tholen](tholen@mathstat.yorku.ca)  
+[M. Thorup](mikkel2thorup@gmail.com)  
+[M. Tischendorf](100435.1514@compuserve.com)  
+[A. Torrens](torrens@mat.ub.es)  
+[L. Traldi](traldil@lafayette.edu)  
+[K. Trencevski](kostatre@iunona.pmf.ukim.edu.mk)  
+[R. Tripathi](tripathi@cse.usf.edu)  
+[V. Trnkova](trnkova@karlin.mff.cuni.cz)  
+[B. Trotta](belindatrotta@gmail.com)  
+[W. T. Trotter](trotter@math.gatech.edu)  
+[S. Tschantz](tschantz@math.vanderbilt.edu)  
+[C. Tsinakis](constantine.tsinakis@vanderbilt.edu)  
+[J. Tuma](tuma@karlin.mff.cuni.cz)  
+[G. Turan](gyt@uic.edu)  
+
+[Back to top](#a)
+
+---
 
 ## U
-| A. Urquhart | urquhart@cs.toronto.edu | |
-| Aldo Ursini | ursini@unisi.it | |
+
+[A. Urquhart](urquhart@cs.toronto.edu)  
+[A. Ursini](aldo.ursini@unisi.it)  
+
+[Back to top](#a)
+
+---
 
 ## V
 
-| Matthew Valeriote | matt@math.mcmaster.ca | |
-| Luis Valero | heindorf@math.fu-berlin.de | |
-| Y. Venema | yde@wins.uva.nl | |
-| V. Verdu | verdu@cerber.mat.ub.es | |
-| Boris Vernikov | boris.vernikov@usu.ru | |
-| Jean-Francois Viaud | <Jean-francois.viaud@univ-lr.fr> | |
-| Hans-Jurgen Vogel| vogel@rz.uni-potsdam.de | |
-| Petr Vojtechovsky | philipp@rothmaler.com | |
-| Mikhail Volkov | Mikhail.Volkov@usu.ru | |
-| Heribert Vollmer | <vollmer@thi.uni-hannover.de> | |
+[D. Vaggione](vaggione@famaf.unc.edu.ar)  
+[M. Valeriote](matt@math.mcmaster.ca)  
+[L. Valero](heindorf@math.fu-berlin.de)  
+[C. J. van Alten](clint.vanalten@wits.ac.za)  
+[J. van Benthem](johan@science.uva.nl)  
+[M. van de Vel](marcel@cs.vu.nl)  
+[H. van Maaren](h.vanmaaren@tudelft.nl)  
+[E. Varmonostory](varmono@jgytf.u-szeged.hu)  
+[J. Vaz de Carvalho](jvc@fct.unl.pt)  
+[Y. Venema](y.venema@uva.nl)  
+[J. Venkateswara Rao](venkatjonnalagadda@yahoo.co.in)  
+[P. Ventura](pablogventura@gmail.com)  
+[V. Verdu](verdu@cerber.mat.ub.es)  
+[B. M. Vernikov](boris.vernikov@urfu.ru)  
+[R. Veroff](veroff@cs.unm.edu)  
+[J.-F. Viaud](Jean-francois.viaud@univ-lr.fr)  
+[H. J. Vogel](vogel@rz.uni-potsdam.de)  
+[P. Vojtechovsky](petr@math.du.edu)  
+[M. V. Volkov](mikhail.volkov@urfu.ru)  
+[H. Vollmer](vollmer@thi.uni-hannover.de)  
+[G. Voutsadakis](gvoutsad@yahoo.com)  
+
+[Back to top](#a)
+
+---
 
 ## W
 
-| Linda Wald | linda@math.ucla.edu | |
-| Tamas Waldhauser | twaldha@math.u-szeged.hu | |
-| Renata Wassermann | <renata@ime.usp.br> | |
-| Nick Weaver | weaver@math.berkeley.edu | |
-| Martin Weese | weese@mathematik.hu-berlin.de | |
-| F. Wehrung | friedrich.wehrung01@unicaen.fr | |
-| Pascal Weil | pw@mustang.ibp.fr | |
-| Hans-Joachim Weinert | sekretariat@math.tu-clausthal.de | |
-| Dirk Welke | welke@rz.uni-potsdam.de | |
-| Benjamin Wells | wells@lynx.cs.usfca.edu | |
-| Heinrich Werner | gumm@Mathematik.Uni-Marburg.DE | |
-| Richard Wiegandt | wiegandt@math-inst.hu | |
-| Marcel Wild | mwild@sun.ac.za | |
-| Ross Willard | ross.willard@uwaterloo.ca| |
-| Rudolf Wille | wille@mathematik.tu-darmstadt.de | |
-| Sheila Oates Williams | sw@maths.uq.oz.au | |
-| Peter Winkler | pw@flash.bellcore.com | |
-| Alex Wires | slawkenbergius@hotmail.com | |
-| Shelly Wismath | wismaths@cs.uleth.ca | |
-| B. Wolk | wolkb@cc.umanitoba.ca | |
-| Uwe Wolter | wolter@cs.tu-berlin.de | |
-| Carol Wood | cwood@msri.org | |
-| Japheth Wood | jwood@chatham.edu | |
-| Russ Woodroofe | russw@math.wustl.edu| |
-| Andreas Wotzlaw | <wotzlaw@informatik.uni-koeln.de> | |
+[M. Wachs](wachs@math.miami.edu)  
+[L. Wald](linda@math.ucla.edu)  
+[T. Waldhauser](twaldha@math.u-szeged.hu)  
+[B. N. Waphare](waphare@yahoo.com)  
+[M. P. Wasadikar](nimbhorkar@yahoo.com)  
+[D. Wasserman](david.r.wasserman@gmail.com)  
+[R. Wassermann](renata@ime.usp.br)  
+[N. Weaver](weaver@math.berkeley.edu)  
+[M. Weese](weese@mathematik.hu-berlin.de)  
+[F. Wehrung](wehrung@math.unicaen.fr)  
+[F. Wehrung](fwehrung@yahoo.fr)  
+[P. Weil](pw@mustang.ibp.fr)  
+[H.-J. Weinert](sekretariat@math.tu-clausthal.de)  
+[D. Welke](welke@rz.uni-potsdam.de)  
+[B. Wells](wells@usfca.edu)  
+[W. Wenzel](wenzel@mi.uni-erlangen.de)  
+[H. Werner](gumm@Mathematik.Uni-Marburg.DE)  
+[G. W. Whipple](gwhipple@warren-wilson.edu)  
+[R. Wiegandt](wiegandt@math-inst.hu)  
+[P. Wilczek](edwil@mail.icpnet.pl)  
+[M. Wild](mwild@sun.ac.za)  
+[R. Willard](rdwillar@uwaterloo.ca)  
+[R. Wille](wille@mathematik.tu-darmstadt.de)  
+[S. Williams](swilli17@dodo.com.au)  
+[S. O. Williams](sw@maths.uq.oz.au)  
+[P. Winkler](pw@flash.bellcore.com)  
+[A. Wires](slawkenbergius@hotmail.com)  
+[S. Wismath](wismaths@uleth.ca)  
+[P. Wojciechowski](piotr@math.utep.edu)  
+[B. Wolk](wolkb@cc.umanitoba.ca)  
+[U. Wolter](wolter@cs.tu-berlin.de)  
+[C. Wood](cwood@msri.org)  
+[J. Wood](jwood@bard.edu)  
+[R. Woodroofe](russw@math.wustl.edu)  
+[A. Wotzlaw](wotzlaw@informatik.uni-koeln.de)  
 
+[Back to top](#a)
+
+---
 
 ## Y
-| Akihiro Yamamoto | <akihiro@i.kyoto-u.ac.jp> | |
-| Masaki Yamamoto | <masaki.yamamoto@lab2.kuis.kyoto-u.ac.jp> | |
+
+[A. Yamamoto](akihiro@i.kyoto-u.ac.jp)  
+[M. Yamamoto](masaki.yamamoto@lab2.kuis.kyoto-u.ac.jp)  
+[Y. Yang](yichuanyang@hotmail.com)  
+[J. Yu](jyu@mmrc.iss.ac.cn)  
+
+[Back to top](#a)
+
+---
 
 ## Z
-| Laszlo Zadori | zadori@math.u-szeged.hu | |
-| G. I. Zhitomirskiy | zhitom@mail.saratov.ru | |
-| P. Zlatos | zlatos@fmph.uniba.sk | |
-| A. A. Zolotykh | zolotykh@matis.math.msu.su | |
 
+[L. Zadori](zadori@math.u-szeged.hu)  
+[O. Zahiri](om.zahiri@gmail.com)  
+[A. Zamojska-Dzienio](A.Zamojska@elka.pw.edu.pl)  
+[J. Zhan](zhanjianming@hotmail.com)  
+[D. Zhao](dongsheng.zhao@nie.edu.sg)  
+[G. I. Zhitomirski](zhitomg@012.net.il)  
+[A. Zhuchok](zhuchok_a@mail.ru)  
+[Y. V. Zhuchok](zhuchok_y@mail.ru)  
+[D. Zhuk](zhuk@intsys.msu.ru)  
+[P. Zlatos](pavol.zlatos@fmph.uniba.sk)  
+[A. A. Zolotykh](zolotykh@matis.math.msu.su)  
 
+[Back to top](#a)
 
-+ [Kirby Baker](mailto:baker@math.ucla.edu) ([UCLA](http://www.math.ucla.edu/~baker/))
-+ [Cliff Bergman](mailto:cbergman@iastate.edu) ([Iowa State](http://orion.math.iastate.edu/cbergman/))
-+ [Roger Bunn](mailto:RogerBunn@missouristate.edu)
-+ [David Clark](mailto:clarkd@newpaltz.edu)
-+ [Eran Crockett](mailto:crockett@math.binghamton.edu)
-+ [Brian Davey](mailto:b.davey@latrobe.edu.au) ([La Trobe University](http://briandavey.ltumathstats.com/))  
-+ [William DeMeo](mailto:williamdemeo@gmail.com) ([University of South Carolina](http://williamdemeo.org))
-+ [Ralph Freese](mailto:ralphfreese@gmail.com) ([University of Hawaii](http://math.hawaii.edu/~ralph/))
-+ [Jonah Horowitz](mailto:jonah.horowitz@gmail.com)
-+ [Alexander Hulpke](mailto:ahulpke@gmail.com) ([Colorado State University](http://www.math.colostate.edu/~hulpke/))
-+ [Peter Jipsen](mailto:jipsenp@gmail.com) ([Chapman University](http://www1.chapman.edu/~jipsen/))
-+ [Alexandr Kazda](mailto:alex.kazda@gmail.com) ([Vanderbilt](http://www.math.vanderbilt.edu/~kazdaa/))
-+ [Keith Kearnes](mailto:kearnes@euclid.colorado.edu) ([University of Colorado](http://spot.colorado.edu/~kearnes/))  
-+ [Bill Lampe](mailto:bill@math.hawaii.edu) ([University of Hawaii](http://math.hawaii.edu/~bill/))
-+ [Peter Mayr](mailto:peter.mayr@jku.at) ([Johannes Kepler University](http://www.jku.at/algebra/content/e151722/index_html))
-+ [Ralph McKenzie](rn.mckenzie@vanderbilt.edu) ([Vanderbilt](http://sitemason.vanderbilt.edu/site/czXIYM))
-+ [George McNulty](mailto:mcnulty@math.sc.edu) ([University of South Carolina](http://www.math.sc.edu/~mcnulty/))
-+ [Matthew Moore](mailto:matthew.d.moore@gmail.com) ([Vanderbilt](http://www.math.vanderbilt.edu/~moorm10/))
-+ [Robert Morse](mailto:rfmorse@gmail.com)
-+ [Yuri Movsisyan](mailto:yurimovsisyan@yahoo.com)
-+ [J. B. Nation](mailto:jb@math.hawaii.edu) ([University of Hawaii](http://math.hawaii.edu/~jb/))   
-+ [Anvar Nurakunov](mailto:a.nurakunov@gmail.com) ([Kyrgyzstan National Institute](http://www.mathnet.ru/php/person.phtml?option_lang=eng&personid=29325))
-+ [Michael Pinsker](mailto:marula@gmx.at) ([Université Diderot--Paris 7](http://dmg.tuwien.ac.at/pinsker/))
-+ [Steven Seif](mailto:steven.seif@louisville.edu) ([University of Louisville](http://www.math.louisville.edu/people/faculty/seif.html))
-+ [Matthew Smedberg](mailto:matthewsmedberg@gmail.com)
-+ [Agnes Szendrei](mailto:szendrei@euclid.colorado.edu) ([University of Colorado](http://spot.colorado.edu/~szendrei/))
-+ [Matt Valeriote](mailto:matt@math.mcmaster.ca) ([McMaster University](http://ms.mcmaster.ca/~matt/))
-+ [Ross Willard](mailto:rdwillar@uwaterloo.ca) ([University of Waterloo](http://www.math.uwaterloo.ca/~rdwillar/))  
-+ [Alex Wires](mailto:slawkenbergius@hotmail.com)
+---
+
+## Emailing Everyone
+
+If you want to email all of the people listed below to announce a conference or call-for-papers,
+download the file [UAContacts.txt.tgz](UAContacts.txt.tgz), unzip and untar the file
+(from the command line, `tar xvzf UAContacts.txt.tgz`), then paste the file contents 
+in the bcc field of your email client.
+
+Please use the list responsibly!
+
+---
+
+[github issue]: https://github.com/UniversalAlgebra/UAResources/issues/new
+[this link]: https://github.com/UniversalAlgebra/UAResources/issues/new

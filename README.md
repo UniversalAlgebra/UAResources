@@ -104,38 +104,10 @@ Conferences
 
 People
 ------
-If you would like your name added or removed, please [open a new issue][].
 
-+ [Kira Adaricheva](mailto:kira.adaricheva@nu.edu.kz) ([Nazarbayev University](http://sst.nu.edu.kz/sst/Academics/departments/Mathematics/Mathematics_People/KiraAdaricheva))
-+ [Kirby Baker](mailto:baker@math.ucla.edu) ([UCLA](http://www.math.ucla.edu/~baker/))
-+ [Cliff Bergman](mailto:cbergman@iastate.edu) ([Iowa State](http://orion.math.iastate.edu/cbergman/))
-+ [Roger Bunn](mailto:RogerBunn@missouristate.edu)
-+ [David Clark](mailto:clarkd@newpaltz.edu)
-+ [Eran Crockett](mailto:crockett@math.binghamton.edu)
-+ [Brian Davey](mailto:b.davey@latrobe.edu.au) ([La Trobe University](http://briandavey.ltumathstats.com/))  
-+ [William DeMeo](mailto:williamdemeo@gmail.com) ([University of South Carolina](http://williamdemeo.org))
-+ [Ralph Freese](mailto:ralphfreese@gmail.com) ([University of Hawaii](http://math.hawaii.edu/~ralph/))
-+ [Jonah Horowitz](mailto:jonah.horowitz@gmail.com)
-+ [Alexander Hulpke](mailto:ahulpke@gmail.com) ([Colorado State University](http://www.math.colostate.edu/~hulpke/))
-+ [Peter Jipsen](mailto:jipsenp@gmail.com) ([Chapman University](http://www1.chapman.edu/~jipsen/))
-+ [Alexandr Kazda](mailto:alex.kazda@gmail.com) ([Vanderbilt](http://www.math.vanderbilt.edu/~kazdaa/))
-+ [Keith Kearnes](mailto:kearnes@euclid.colorado.edu) ([University of Colorado](http://spot.colorado.edu/~kearnes/))  
-+ [Bill Lampe](mailto:bill@math.hawaii.edu) ([University of Hawaii](http://math.hawaii.edu/~bill/))
-+ [Peter Mayr](mailto:peter.mayr@jku.at) ([Johannes Kepler University](http://www.jku.at/algebra/content/e151722/index_html))
-+ [Ralph McKenzie](rn.mckenzie@vanderbilt.edu) ([Vanderbilt](http://sitemason.vanderbilt.edu/site/czXIYM))
-+ [George McNulty](mailto:mcnulty@math.sc.edu) ([University of South Carolina](http://www.math.sc.edu/~mcnulty/))
-+ [Matthew Moore](mailto:matthew.d.moore@gmail.com) ([Vanderbilt](http://www.math.vanderbilt.edu/~moorm10/))
-+ [Robert Morse](mailto:rfmorse@gmail.com)
-+ [Yuri Movsisyan](mailto:yurimovsisyan@yahoo.com)
-+ [J. B. Nation](mailto:jb@math.hawaii.edu) ([University of Hawaii](http://math.hawaii.edu/~jb/))   
-+ [Anvar Nurakunov](mailto:a.nurakunov@gmail.com) ([Kyrgyzstan National Institute](http://www.mathnet.ru/php/person.phtml?option_lang=eng&personid=29325))
-+ [Michael Pinsker](mailto:marula@gmx.at) ([Université Diderot--Paris 7](http://dmg.tuwien.ac.at/pinsker/))
-+ [Steven Seif](mailto:steven.seif@louisville.edu) ([University of Louisville](http://www.math.louisville.edu/people/faculty/seif.html))
-+ [Matthew Smedberg](mailto:matthewsmedberg@gmail.com)
-+ [Agnes Szendrei](mailto:szendrei@euclid.colorado.edu) ([University of Colorado](http://spot.colorado.edu/~szendrei/))
-+ [Matt Valeriote](mailto:matt@math.mcmaster.ca) ([McMaster University](http://ms.mcmaster.ca/~matt/))
-+ [Ross Willard](mailto:rdwillar@uwaterloo.ca) ([University of Waterloo](http://www.math.uwaterloo.ca/~rdwillar/))  
-+ [Alex Wires](mailto:slawkenbergius@hotmail.com)
+The list of people connected in some way to Universal Algebra has moved [here](./contacts).
+
+Similar lists can also be found [here](http://www.algebrauniversalis.com/researchers) and [here](http://spot.colorado.edu/~kearnes/coll.html).
 
 -----------------------------------------------------------------
 
