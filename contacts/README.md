@@ -765,7 +765,7 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 [S. Shtrakov](shtrakov@swu.bg)  
 [K. P. Shum](kpshum@cuhk.edu.hk)  
 [D. Silberger](donaldsilberger@gmail.com)  
-[S. Silberger](sylvia.silbereger@hofstra.edu)  
+[S. Silberger](sylvia.silberger@hofstra.edu)  
 [P. Silva](pvsilva@fc.up.pt)  
 [H. Simmons](hsimmons@cs.man.ac.uk)  
 [A. Simon](andras@renyi.hu)  
@@ -811,7 +811,6 @@ If you want to email everyone on the list, see the [instructions below](#emailin
 
 ## T
 
-[G. Takach](takach@inf.nyme.hu)  
 [R. Takhanov](rustem.takhanov@nu.edu.kz)  
 [R. Talukder](rashed_math@yahoo.com)  
 [S. Tamaki](tamak@kuis.kyoto-u.ac.jp)  
